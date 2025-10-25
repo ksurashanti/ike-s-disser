@@ -1,0 +1,7643 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "designation": "БУ-01",
+      "name": "Блок управления БУ-01",
+      "description": "Блок управления семейства БУ, уровень сложности: Малый",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Петров П.П.",
+      "complexity_level": "Малый"
+    },
+    {
+      "product_id": 2,
+      "designation": "БУ-02",
+      "name": "Блок управления БУ-02",
+      "description": "Блок управления семейства БУ, уровень сложности: Средний",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Иванов И.И.",
+      "complexity_level": "Средний"
+    },
+    {
+      "product_id": 3,
+      "designation": "БУ-03",
+      "name": "Блок управления БУ-03",
+      "description": "Блок управления семейства БУ, уровень сложности: Большой",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Иванов И.И.",
+      "complexity_level": "Большой"
+    },
+    {
+      "product_id": 4,
+      "designation": "БУ-04",
+      "name": "Блок управления БУ-04",
+      "description": "Блок управления семейства БУ, уровень сложности: Очень большой",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Петров П.П.",
+      "complexity_level": "Очень большой"
+    },
+    {
+      "product_id": 5,
+      "designation": "БУ-05",
+      "name": "Блок управления БУ-05",
+      "description": "Блок управления семейства БУ, уровень сложности: Малый",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Сидоров С.С.",
+      "complexity_level": "Малый"
+    },
+    {
+      "product_id": 6,
+      "designation": "БУ-06",
+      "name": "Блок управления БУ-06",
+      "description": "Блок управления семейства БУ, уровень сложности: Средний",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Петров П.П.",
+      "complexity_level": "Средний"
+    },
+    {
+      "product_id": 7,
+      "designation": "БУ-07",
+      "name": "Блок управления БУ-07",
+      "description": "Блок управления семейства БУ, уровень сложности: Большой",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Сидоров С.С.",
+      "complexity_level": "Большой"
+    },
+    {
+      "product_id": 8,
+      "designation": "БУ-08",
+      "name": "Блок управления БУ-08",
+      "description": "Блок управления семейства БУ, уровень сложности: Очень большой",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Сидоров С.С.",
+      "complexity_level": "Очень большой"
+    },
+    {
+      "product_id": 9,
+      "designation": "БУ-09",
+      "name": "Блок управления БУ-09",
+      "description": "Блок управления семейства БУ, уровень сложности: Малый",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Сидоров С.С.",
+      "complexity_level": "Малый"
+    },
+    {
+      "product_id": 10,
+      "designation": "БУ-10",
+      "name": "Блок управления БУ-10",
+      "description": "Блок управления семейства БУ, уровень сложности: Средний",
+      "version": "1.0",
+      "created_date": "2025-10-25",
+      "designer": "Сидоров С.С.",
+      "complexity_level": "Средний"
+    }
+  ],
+  "components": [
+    {
+      "component_id": 1,
+      "designation": "COMP-0001",
+      "name": "Корпус 1",
+      "type": "Корпус",
+      "material": "Алюминий",
+      "manufacturer": "Производитель Б",
+      "weight": 1.327,
+      "cost": 4113.44,
+      "description": "Компонент типа Корпус"
+    },
+    {
+      "component_id": 2,
+      "designation": "COMP-0002",
+      "name": "Плата управления 2",
+      "type": "Плата управления",
+      "material": "Алюминий",
+      "manufacturer": "Производитель Г",
+      "weight": 1.016,
+      "cost": 4787.42,
+      "description": "Компонент типа Плата управления"
+    },
+    {
+      "component_id": 3,
+      "designation": "COMP-0003",
+      "name": "Микросхема 3",
+      "type": "Микросхема",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 0.32,
+      "cost": 1045.07,
+      "description": "Компонент типа Микросхема"
+    },
+    {
+      "component_id": 4,
+      "designation": "COMP-0004",
+      "name": "Разъём 4",
+      "type": "Разъём",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.525,
+      "cost": 507.81,
+      "description": "Компонент типа Разъём"
+    },
+    {
+      "component_id": 5,
+      "designation": "COMP-0005",
+      "name": "Память 5",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.258,
+      "cost": 1173.01,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 6,
+      "designation": "COMP-0006",
+      "name": "Модуль связи 6",
+      "type": "Модуль связи",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.17,
+      "cost": 2182.28,
+      "description": "Компонент типа Модуль связи"
+    },
+    {
+      "component_id": 7,
+      "designation": "COMP-0007",
+      "name": "Фильтр 7",
+      "type": "Фильтр",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.641,
+      "cost": 4546.95,
+      "description": "Компонент типа Фильтр"
+    },
+    {
+      "component_id": 8,
+      "designation": "COMP-0008",
+      "name": "Контроллер 8",
+      "type": "Контроллер",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 1.86,
+      "cost": 916.12,
+      "description": "Компонент типа Контроллер"
+    },
+    {
+      "component_id": 9,
+      "designation": "COMP-0009",
+      "name": "Резистор 9",
+      "type": "Резистор",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.255,
+      "cost": 1225.28,
+      "description": "Компонент типа Резистор"
+    },
+    {
+      "component_id": 10,
+      "designation": "COMP-0010",
+      "name": "Радиатор 10",
+      "type": "Радиатор",
+      "material": "Кремний",
+      "manufacturer": "Производитель Б",
+      "weight": 1.251,
+      "cost": 4303.96,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 11,
+      "designation": "COMP-0011",
+      "name": "Радиатор 11",
+      "type": "Радиатор",
+      "material": "Пластик",
+      "manufacturer": "Производитель Б",
+      "weight": 1.306,
+      "cost": 1566.98,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 12,
+      "designation": "COMP-0012",
+      "name": "Конденсатор 12",
+      "type": "Конденсатор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.029,
+      "cost": 989.87,
+      "description": "Компонент типа Конденсатор"
+    },
+    {
+      "component_id": 13,
+      "designation": "COMP-0013",
+      "name": "Радиатор 13",
+      "type": "Радиатор",
+      "material": "Сталь",
+      "manufacturer": "Производитель В",
+      "weight": 0.092,
+      "cost": 1300.51,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 14,
+      "designation": "COMP-0014",
+      "name": "Разъём 14",
+      "type": "Разъём",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 1.586,
+      "cost": 377.93,
+      "description": "Компонент типа Разъём"
+    },
+    {
+      "component_id": 15,
+      "designation": "COMP-0015",
+      "name": "Микросхема 15",
+      "type": "Микросхема",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.298,
+      "cost": 3893.44,
+      "description": "Компонент типа Микросхема"
+    },
+    {
+      "component_id": 16,
+      "designation": "COMP-0016",
+      "name": "Память 16",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.671,
+      "cost": 1598.85,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 17,
+      "designation": "COMP-0017",
+      "name": "Процессор 17",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.132,
+      "cost": 1412.72,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 18,
+      "designation": "COMP-0018",
+      "name": "Процессор 18",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.244,
+      "cost": 3460.29,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 19,
+      "designation": "COMP-0019",
+      "name": "Датчик 19",
+      "type": "Датчик",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.621,
+      "cost": 2208.49,
+      "description": "Компонент типа Датчик"
+    },
+    {
+      "component_id": 20,
+      "designation": "COMP-0020",
+      "name": "Радиатор 20",
+      "type": "Радиатор",
+      "material": "Алюминий",
+      "manufacturer": "Производитель В",
+      "weight": 0.038,
+      "cost": 3119.67,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 21,
+      "designation": "COMP-0021",
+      "name": "Память 21",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 1.327,
+      "cost": 2715.49,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 22,
+      "designation": "COMP-0022",
+      "name": "Резистор 22",
+      "type": "Резистор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.449,
+      "cost": 366.42,
+      "description": "Компонент типа Резистор"
+    },
+    {
+      "component_id": 23,
+      "designation": "COMP-0023",
+      "name": "Плата управления 23",
+      "type": "Плата управления",
+      "material": "Сталь",
+      "manufacturer": "Производитель Г",
+      "weight": 1.935,
+      "cost": 4641.05,
+      "description": "Компонент типа Плата управления"
+    },
+    {
+      "component_id": 24,
+      "designation": "COMP-0024",
+      "name": "Радиатор 24",
+      "type": "Радиатор",
+      "material": "Сталь",
+      "manufacturer": "Производитель В",
+      "weight": 0.185,
+      "cost": 2499.16,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 25,
+      "designation": "COMP-0025",
+      "name": "Фильтр 25",
+      "type": "Фильтр",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.634,
+      "cost": 4537.49,
+      "description": "Компонент типа Фильтр"
+    },
+    {
+      "component_id": 26,
+      "designation": "COMP-0026",
+      "name": "Процессор 26",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 1.778,
+      "cost": 1771.13,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 27,
+      "designation": "COMP-0027",
+      "name": "Конденсатор 27",
+      "type": "Конденсатор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.847,
+      "cost": 2595.26,
+      "description": "Компонент типа Конденсатор"
+    },
+    {
+      "component_id": 28,
+      "designation": "COMP-0028",
+      "name": "Радиатор 28",
+      "type": "Радиатор",
+      "material": "Кремний",
+      "manufacturer": "Производитель Б",
+      "weight": 0.492,
+      "cost": 3739.16,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 29,
+      "designation": "COMP-0029",
+      "name": "Датчик 29",
+      "type": "Датчик",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 0.69,
+      "cost": 3133.95,
+      "description": "Компонент типа Датчик"
+    },
+    {
+      "component_id": 30,
+      "designation": "COMP-0030",
+      "name": "Конденсатор 30",
+      "type": "Конденсатор",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 1.428,
+      "cost": 977.44,
+      "description": "Компонент типа Конденсатор"
+    },
+    {
+      "component_id": 31,
+      "designation": "COMP-0031",
+      "name": "Память 31",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.826,
+      "cost": 4688.76,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 32,
+      "designation": "COMP-0032",
+      "name": "Корпус 32",
+      "type": "Корпус",
+      "material": "Текстолит",
+      "manufacturer": "Производитель Б",
+      "weight": 1.853,
+      "cost": 2515.17,
+      "description": "Компонент типа Корпус"
+    },
+    {
+      "component_id": 33,
+      "designation": "COMP-0033",
+      "name": "Датчик 33",
+      "type": "Датчик",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.497,
+      "cost": 4713.68,
+      "description": "Компонент типа Датчик"
+    },
+    {
+      "component_id": 34,
+      "designation": "COMP-0034",
+      "name": "Разъём 34",
+      "type": "Разъём",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.252,
+      "cost": 4058.03,
+      "description": "Компонент типа Разъём"
+    },
+    {
+      "component_id": 35,
+      "designation": "COMP-0035",
+      "name": "Радиатор 35",
+      "type": "Радиатор",
+      "material": "Кремний",
+      "manufacturer": "Производитель Г",
+      "weight": 1.897,
+      "cost": 1807.28,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 36,
+      "designation": "COMP-0036",
+      "name": "Индикатор 36",
+      "type": "Индикатор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.545,
+      "cost": 455.46,
+      "description": "Компонент типа Индикатор"
+    },
+    {
+      "component_id": 37,
+      "designation": "COMP-0037",
+      "name": "Фильтр 37",
+      "type": "Фильтр",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.703,
+      "cost": 2374.35,
+      "description": "Компонент типа Фильтр"
+    },
+    {
+      "component_id": 38,
+      "designation": "COMP-0038",
+      "name": "Процессор 38",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.863,
+      "cost": 337.05,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 39,
+      "designation": "COMP-0039",
+      "name": "Датчик 39",
+      "type": "Датчик",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.613,
+      "cost": 3405.27,
+      "description": "Компонент типа Датчик"
+    },
+    {
+      "component_id": 40,
+      "designation": "COMP-0040",
+      "name": "Контроллер 40",
+      "type": "Контроллер",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 1.036,
+      "cost": 1156.18,
+      "description": "Компонент типа Контроллер"
+    },
+    {
+      "component_id": 41,
+      "designation": "COMP-0041",
+      "name": "Разъём 41",
+      "type": "Разъём",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.061,
+      "cost": 3554.77,
+      "description": "Компонент типа Разъём"
+    },
+    {
+      "component_id": 42,
+      "designation": "COMP-0042",
+      "name": "Индикатор 42",
+      "type": "Индикатор",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 1.749,
+      "cost": 1744.14,
+      "description": "Компонент типа Индикатор"
+    },
+    {
+      "component_id": 43,
+      "designation": "COMP-0043",
+      "name": "Датчик 43",
+      "type": "Датчик",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.368,
+      "cost": 3550.46,
+      "description": "Компонент типа Датчик"
+    },
+    {
+      "component_id": 44,
+      "designation": "COMP-0044",
+      "name": "Процессор 44",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.126,
+      "cost": 2575.66,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 45,
+      "designation": "COMP-0045",
+      "name": "Фильтр 45",
+      "type": "Фильтр",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.959,
+      "cost": 378.41,
+      "description": "Компонент типа Фильтр"
+    },
+    {
+      "component_id": 46,
+      "designation": "COMP-0046",
+      "name": "Память 46",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.48,
+      "cost": 3848.07,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 47,
+      "designation": "COMP-0047",
+      "name": "Контроллер 47",
+      "type": "Контроллер",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.948,
+      "cost": 2979.17,
+      "description": "Компонент типа Контроллер"
+    },
+    {
+      "component_id": 48,
+      "designation": "COMP-0048",
+      "name": "Разъём 48",
+      "type": "Разъём",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.09,
+      "cost": 3923.38,
+      "description": "Компонент типа Разъём"
+    },
+    {
+      "component_id": 49,
+      "designation": "COMP-0049",
+      "name": "Процессор 49",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.851,
+      "cost": 2432.07,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 50,
+      "designation": "COMP-0050",
+      "name": "Радиатор 50",
+      "type": "Радиатор",
+      "material": "Кремний",
+      "manufacturer": "Производитель А",
+      "weight": 0.617,
+      "cost": 3886.99,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 51,
+      "designation": "COMP-0051",
+      "name": "Разъём 51",
+      "type": "Разъём",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.418,
+      "cost": 4998.15,
+      "description": "Компонент типа Разъём"
+    },
+    {
+      "component_id": 52,
+      "designation": "COMP-0052",
+      "name": "Память 52",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 1.724,
+      "cost": 4181.25,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 53,
+      "designation": "COMP-0053",
+      "name": "Индикатор 53",
+      "type": "Индикатор",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 0.84,
+      "cost": 3112.58,
+      "description": "Компонент типа Индикатор"
+    },
+    {
+      "component_id": 54,
+      "designation": "COMP-0054",
+      "name": "Индикатор 54",
+      "type": "Индикатор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.315,
+      "cost": 2728.07,
+      "description": "Компонент типа Индикатор"
+    },
+    {
+      "component_id": 55,
+      "designation": "COMP-0055",
+      "name": "Модуль связи 55",
+      "type": "Модуль связи",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 0.388,
+      "cost": 1310.2,
+      "description": "Компонент типа Модуль связи"
+    },
+    {
+      "component_id": 56,
+      "designation": "COMP-0056",
+      "name": "Микросхема 56",
+      "type": "Микросхема",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.604,
+      "cost": 254.84,
+      "description": "Компонент типа Микросхема"
+    },
+    {
+      "component_id": 57,
+      "designation": "COMP-0057",
+      "name": "Датчик 57",
+      "type": "Датчик",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 1.523,
+      "cost": 1634.61,
+      "description": "Компонент типа Датчик"
+    },
+    {
+      "component_id": 58,
+      "designation": "COMP-0058",
+      "name": "Модуль связи 58",
+      "type": "Модуль связи",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.022,
+      "cost": 2965.37,
+      "description": "Компонент типа Модуль связи"
+    },
+    {
+      "component_id": 59,
+      "designation": "COMP-0059",
+      "name": "Корпус 59",
+      "type": "Корпус",
+      "material": "Медь",
+      "manufacturer": "Производитель А",
+      "weight": 0.015,
+      "cost": 3179.8,
+      "description": "Компонент типа Корпус"
+    },
+    {
+      "component_id": 60,
+      "designation": "COMP-0060",
+      "name": "Корпус 60",
+      "type": "Корпус",
+      "material": "Медь",
+      "manufacturer": "Производитель А",
+      "weight": 0.909,
+      "cost": 2219.14,
+      "description": "Компонент типа Корпус"
+    },
+    {
+      "component_id": 61,
+      "designation": "COMP-0061",
+      "name": "Источник питания 61",
+      "type": "Источник питания",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.064,
+      "cost": 4620.43,
+      "description": "Компонент типа Источник питания"
+    },
+    {
+      "component_id": 62,
+      "designation": "COMP-0062",
+      "name": "Плата управления 62",
+      "type": "Плата управления",
+      "material": "Алюминий",
+      "manufacturer": "Производитель А",
+      "weight": 0.255,
+      "cost": 4578.28,
+      "description": "Компонент типа Плата управления"
+    },
+    {
+      "component_id": 63,
+      "designation": "COMP-0063",
+      "name": "Резистор 63",
+      "type": "Резистор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.299,
+      "cost": 3475.86,
+      "description": "Компонент типа Резистор"
+    },
+    {
+      "component_id": 64,
+      "designation": "COMP-0064",
+      "name": "Контроллер 64",
+      "type": "Контроллер",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.557,
+      "cost": 1996.84,
+      "description": "Компонент типа Контроллер"
+    },
+    {
+      "component_id": 65,
+      "designation": "COMP-0065",
+      "name": "Источник питания 65",
+      "type": "Источник питания",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.611,
+      "cost": 3518.24,
+      "description": "Компонент типа Источник питания"
+    },
+    {
+      "component_id": 66,
+      "designation": "COMP-0066",
+      "name": "Индикатор 66",
+      "type": "Индикатор",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.494,
+      "cost": 1517.23,
+      "description": "Компонент типа Индикатор"
+    },
+    {
+      "component_id": 67,
+      "designation": "COMP-0067",
+      "name": "Микросхема 67",
+      "type": "Микросхема",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 1.222,
+      "cost": 1091.99,
+      "description": "Компонент типа Микросхема"
+    },
+    {
+      "component_id": 68,
+      "designation": "COMP-0068",
+      "name": "Плата управления 68",
+      "type": "Плата управления",
+      "material": "Пластик",
+      "manufacturer": "Производитель А",
+      "weight": 0.247,
+      "cost": 4016.91,
+      "description": "Компонент типа Плата управления"
+    },
+    {
+      "component_id": 69,
+      "designation": "COMP-0069",
+      "name": "Радиатор 69",
+      "type": "Радиатор",
+      "material": "Сталь",
+      "manufacturer": "Производитель Б",
+      "weight": 0.648,
+      "cost": 2727.47,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 70,
+      "designation": "COMP-0070",
+      "name": "Процессор 70",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.333,
+      "cost": 651.33,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 71,
+      "designation": "COMP-0071",
+      "name": "Процессор 71",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.596,
+      "cost": 3986.61,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 72,
+      "designation": "COMP-0072",
+      "name": "Корпус 72",
+      "type": "Корпус",
+      "material": "Алюминий",
+      "manufacturer": "Производитель В",
+      "weight": 1.144,
+      "cost": 3568.7,
+      "description": "Компонент типа Корпус"
+    },
+    {
+      "component_id": 73,
+      "designation": "COMP-0073",
+      "name": "Модуль связи 73",
+      "type": "Модуль связи",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.226,
+      "cost": 1302.18,
+      "description": "Компонент типа Модуль связи"
+    },
+    {
+      "component_id": 74,
+      "designation": "COMP-0074",
+      "name": "Плата управления 74",
+      "type": "Плата управления",
+      "material": "Алюминий",
+      "manufacturer": "Производитель Б",
+      "weight": 0.227,
+      "cost": 4291.58,
+      "description": "Компонент типа Плата управления"
+    },
+    {
+      "component_id": 75,
+      "designation": "COMP-0075",
+      "name": "Модуль связи 75",
+      "type": "Модуль связи",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.083,
+      "cost": 4966.02,
+      "description": "Компонент типа Модуль связи"
+    },
+    {
+      "component_id": 76,
+      "designation": "COMP-0076",
+      "name": "Источник питания 76",
+      "type": "Источник питания",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.501,
+      "cost": 4862.71,
+      "description": "Компонент типа Источник питания"
+    },
+    {
+      "component_id": 77,
+      "designation": "COMP-0077",
+      "name": "Память 77",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.124,
+      "cost": 3347.22,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 78,
+      "designation": "COMP-0078",
+      "name": "Разъём 78",
+      "type": "Разъём",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.665,
+      "cost": 2076.5,
+      "description": "Компонент типа Разъём"
+    },
+    {
+      "component_id": 79,
+      "designation": "COMP-0079",
+      "name": "Резистор 79",
+      "type": "Резистор",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 1.565,
+      "cost": 689.06,
+      "description": "Компонент типа Резистор"
+    },
+    {
+      "component_id": 80,
+      "designation": "COMP-0080",
+      "name": "Индикатор 80",
+      "type": "Индикатор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.523,
+      "cost": 1167.71,
+      "description": "Компонент типа Индикатор"
+    },
+    {
+      "component_id": 81,
+      "designation": "COMP-0081",
+      "name": "Микросхема 81",
+      "type": "Микросхема",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.534,
+      "cost": 2283.3,
+      "description": "Компонент типа Микросхема"
+    },
+    {
+      "component_id": 82,
+      "designation": "COMP-0082",
+      "name": "Память 82",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 1.709,
+      "cost": 2236.5,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 83,
+      "designation": "COMP-0083",
+      "name": "Разъём 83",
+      "type": "Разъём",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 1.589,
+      "cost": 480.89,
+      "description": "Компонент типа Разъём"
+    },
+    {
+      "component_id": 84,
+      "designation": "COMP-0084",
+      "name": "Плата управления 84",
+      "type": "Плата управления",
+      "material": "Текстолит",
+      "manufacturer": "Производитель В",
+      "weight": 0.755,
+      "cost": 1335.19,
+      "description": "Компонент типа Плата управления"
+    },
+    {
+      "component_id": 85,
+      "designation": "COMP-0085",
+      "name": "Память 85",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 0.675,
+      "cost": 3940.39,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 86,
+      "designation": "COMP-0086",
+      "name": "Конденсатор 86",
+      "type": "Конденсатор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.398,
+      "cost": 4611.12,
+      "description": "Компонент типа Конденсатор"
+    },
+    {
+      "component_id": 87,
+      "designation": "COMP-0087",
+      "name": "Радиатор 87",
+      "type": "Радиатор",
+      "material": "Сталь",
+      "manufacturer": "Производитель А",
+      "weight": 1.068,
+      "cost": 852.96,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 88,
+      "designation": "COMP-0088",
+      "name": "Индикатор 88",
+      "type": "Индикатор",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 1.871,
+      "cost": 3891.1,
+      "description": "Компонент типа Индикатор"
+    },
+    {
+      "component_id": 89,
+      "designation": "COMP-0089",
+      "name": "Корпус 89",
+      "type": "Корпус",
+      "material": "Медь",
+      "manufacturer": "Производитель В",
+      "weight": 0.92,
+      "cost": 3366.84,
+      "description": "Компонент типа Корпус"
+    },
+    {
+      "component_id": 90,
+      "designation": "COMP-0090",
+      "name": "Модуль связи 90",
+      "type": "Модуль связи",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 1.601,
+      "cost": 392.55,
+      "description": "Компонент типа Модуль связи"
+    },
+    {
+      "component_id": 91,
+      "designation": "COMP-0091",
+      "name": "Модуль связи 91",
+      "type": "Модуль связи",
+      "material": null,
+      "manufacturer": "Производитель В",
+      "weight": 0.968,
+      "cost": 1761.21,
+      "description": "Компонент типа Модуль связи"
+    },
+    {
+      "component_id": 92,
+      "designation": "COMP-0092",
+      "name": "Плата управления 92",
+      "type": "Плата управления",
+      "material": "Алюминий",
+      "manufacturer": "Производитель А",
+      "weight": 1.214,
+      "cost": 3030.41,
+      "description": "Компонент типа Плата управления"
+    },
+    {
+      "component_id": 93,
+      "designation": "COMP-0093",
+      "name": "Микросхема 93",
+      "type": "Микросхема",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.545,
+      "cost": 3235.87,
+      "description": "Компонент типа Микросхема"
+    },
+    {
+      "component_id": 94,
+      "designation": "COMP-0094",
+      "name": "Корпус 94",
+      "type": "Корпус",
+      "material": "Алюминий",
+      "manufacturer": "Производитель А",
+      "weight": 0.852,
+      "cost": 1571.61,
+      "description": "Компонент типа Корпус"
+    },
+    {
+      "component_id": 95,
+      "designation": "COMP-0095",
+      "name": "Память 95",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 0.654,
+      "cost": 269.05,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 96,
+      "designation": "COMP-0096",
+      "name": "Память 96",
+      "type": "Память",
+      "material": null,
+      "manufacturer": "Производитель Б",
+      "weight": 0.66,
+      "cost": 1778.06,
+      "description": "Компонент типа Память"
+    },
+    {
+      "component_id": 97,
+      "designation": "COMP-0097",
+      "name": "Процессор 97",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель Г",
+      "weight": 1.208,
+      "cost": 4892.74,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 98,
+      "designation": "COMP-0098",
+      "name": "Процессор 98",
+      "type": "Процессор",
+      "material": null,
+      "manufacturer": "Производитель А",
+      "weight": 0.277,
+      "cost": 4528.52,
+      "description": "Компонент типа Процессор"
+    },
+    {
+      "component_id": 99,
+      "designation": "COMP-0099",
+      "name": "Радиатор 99",
+      "type": "Радиатор",
+      "material": "Алюминий",
+      "manufacturer": "Производитель Г",
+      "weight": 1.962,
+      "cost": 1018.65,
+      "description": "Компонент типа Радиатор"
+    },
+    {
+      "component_id": 100,
+      "designation": "COMP-0100",
+      "name": "Плата управления 100",
+      "type": "Плата управления",
+      "material": "Текстолит",
+      "manufacturer": "Производитель Г",
+      "weight": 0.843,
+      "cost": 2376.86,
+      "description": "Компонент типа Плата управления"
+    }
+  ],
+  "assemblies": [
+    {
+      "assembly_id": 1,
+      "product_id": 1,
+      "parent_component_id": null,
+      "component_id": 95,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 2,
+      "product_id": 2,
+      "parent_component_id": null,
+      "component_id": 74,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 3,
+      "product_id": 2,
+      "parent_component_id": 74,
+      "component_id": 21,
+      "quantity": 3,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 4,
+      "product_id": 2,
+      "parent_component_id": 21,
+      "component_id": 2,
+      "quantity": 2,
+      "level": 2,
+      "position_number": "1.1.1"
+    },
+    {
+      "assembly_id": 5,
+      "product_id": 2,
+      "parent_component_id": 2,
+      "component_id": 13,
+      "quantity": 3,
+      "level": 3,
+      "position_number": "1.1.1.1"
+    },
+    {
+      "assembly_id": 6,
+      "product_id": 2,
+      "parent_component_id": 13,
+      "component_id": 59,
+      "quantity": 3,
+      "level": 4,
+      "position_number": "1.1.1.1.1"
+    },
+    {
+      "assembly_id": 7,
+      "product_id": 2,
+      "parent_component_id": 59,
+      "component_id": 31,
+      "quantity": 3,
+      "level": 5,
+      "position_number": "1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 8,
+      "product_id": 2,
+      "parent_component_id": 31,
+      "component_id": 48,
+      "quantity": 3,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 9,
+      "product_id": 2,
+      "parent_component_id": 31,
+      "component_id": 98,
+      "quantity": 4,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 10,
+      "product_id": 2,
+      "parent_component_id": 31,
+      "component_id": 22,
+      "quantity": 4,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 11,
+      "product_id": 3,
+      "parent_component_id": null,
+      "component_id": 25,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 12,
+      "product_id": 3,
+      "parent_component_id": 25,
+      "component_id": 62,
+      "quantity": 4,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 13,
+      "product_id": 3,
+      "parent_component_id": 62,
+      "component_id": 46,
+      "quantity": 2,
+      "level": 2,
+      "position_number": "1.1.1"
+    },
+    {
+      "assembly_id": 14,
+      "product_id": 3,
+      "parent_component_id": 46,
+      "component_id": 80,
+      "quantity": 2,
+      "level": 3,
+      "position_number": "1.1.1.1"
+    },
+    {
+      "assembly_id": 15,
+      "product_id": 3,
+      "parent_component_id": 80,
+      "component_id": 39,
+      "quantity": 2,
+      "level": 4,
+      "position_number": "1.1.1.1.1"
+    },
+    {
+      "assembly_id": 16,
+      "product_id": 3,
+      "parent_component_id": 39,
+      "component_id": 89,
+      "quantity": 4,
+      "level": 5,
+      "position_number": "1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 17,
+      "product_id": 3,
+      "parent_component_id": 89,
+      "component_id": 19,
+      "quantity": 3,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 18,
+      "product_id": 3,
+      "parent_component_id": 19,
+      "component_id": 58,
+      "quantity": 3,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 19,
+      "product_id": 3,
+      "parent_component_id": 58,
+      "component_id": 66,
+      "quantity": 1,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 20,
+      "product_id": 3,
+      "parent_component_id": 66,
+      "component_id": 48,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 21,
+      "product_id": 3,
+      "parent_component_id": 48,
+      "component_id": 4,
+      "quantity": 3,
+      "level": 10,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 22,
+      "product_id": 3,
+      "parent_component_id": 4,
+      "component_id": 68,
+      "quantity": 2,
+      "level": 11,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 23,
+      "product_id": 3,
+      "parent_component_id": 68,
+      "component_id": 60,
+      "quantity": 3,
+      "level": 12,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 24,
+      "product_id": 3,
+      "parent_component_id": 60,
+      "component_id": 1,
+      "quantity": 1,
+      "level": 13,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 25,
+      "product_id": 3,
+      "parent_component_id": 1,
+      "component_id": 6,
+      "quantity": 2,
+      "level": 14,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 26,
+      "product_id": 3,
+      "parent_component_id": 6,
+      "component_id": 8,
+      "quantity": 4,
+      "level": 15,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 27,
+      "product_id": 3,
+      "parent_component_id": 8,
+      "component_id": 76,
+      "quantity": 4,
+      "level": 16,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 28,
+      "product_id": 3,
+      "parent_component_id": 76,
+      "component_id": 12,
+      "quantity": 2,
+      "level": 17,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 29,
+      "product_id": 3,
+      "parent_component_id": 12,
+      "component_id": 94,
+      "quantity": 3,
+      "level": 18,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 30,
+      "product_id": 3,
+      "parent_component_id": 94,
+      "component_id": 98,
+      "quantity": 1,
+      "level": 19,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 31,
+      "product_id": 3,
+      "parent_component_id": 98,
+      "component_id": 56,
+      "quantity": 4,
+      "level": 20,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 32,
+      "product_id": 3,
+      "parent_component_id": 56,
+      "component_id": 55,
+      "quantity": 4,
+      "level": 21,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 33,
+      "product_id": 3,
+      "parent_component_id": 55,
+      "component_id": 36,
+      "quantity": 2,
+      "level": 22,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 34,
+      "product_id": 3,
+      "parent_component_id": 36,
+      "component_id": 97,
+      "quantity": 4,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 35,
+      "product_id": 3,
+      "parent_component_id": 36,
+      "component_id": 57,
+      "quantity": 1,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 36,
+      "product_id": 3,
+      "parent_component_id": 36,
+      "component_id": 61,
+      "quantity": 2,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 37,
+      "product_id": 3,
+      "parent_component_id": 36,
+      "component_id": 23,
+      "quantity": 4,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4"
+    },
+    {
+      "assembly_id": 38,
+      "product_id": 3,
+      "parent_component_id": 55,
+      "component_id": 71,
+      "quantity": 2,
+      "level": 22,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 39,
+      "product_id": 3,
+      "parent_component_id": 71,
+      "component_id": 75,
+      "quantity": 2,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 40,
+      "product_id": 3,
+      "parent_component_id": 55,
+      "component_id": 16,
+      "quantity": 1,
+      "level": 22,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 41,
+      "product_id": 3,
+      "parent_component_id": 16,
+      "component_id": 21,
+      "quantity": 2,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1"
+    },
+    {
+      "assembly_id": 42,
+      "product_id": 3,
+      "parent_component_id": 56,
+      "component_id": 54,
+      "quantity": 1,
+      "level": 21,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 43,
+      "product_id": 3,
+      "parent_component_id": 54,
+      "component_id": 81,
+      "quantity": 4,
+      "level": 22,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 44,
+      "product_id": 3,
+      "parent_component_id": 81,
+      "component_id": 64,
+      "quantity": 1,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1"
+    },
+    {
+      "assembly_id": 45,
+      "product_id": 3,
+      "parent_component_id": 81,
+      "component_id": 44,
+      "quantity": 3,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2"
+    },
+    {
+      "assembly_id": 46,
+      "product_id": 3,
+      "parent_component_id": 81,
+      "component_id": 38,
+      "quantity": 2,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.3"
+    },
+    {
+      "assembly_id": 47,
+      "product_id": 3,
+      "parent_component_id": 81,
+      "component_id": 59,
+      "quantity": 2,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.4"
+    },
+    {
+      "assembly_id": 48,
+      "product_id": 3,
+      "parent_component_id": 81,
+      "component_id": 33,
+      "quantity": 2,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.5"
+    },
+    {
+      "assembly_id": 49,
+      "product_id": 3,
+      "parent_component_id": 56,
+      "component_id": 47,
+      "quantity": 2,
+      "level": 21,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 50,
+      "product_id": 3,
+      "parent_component_id": 47,
+      "component_id": 15,
+      "quantity": 2,
+      "level": 22,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1"
+    },
+    {
+      "assembly_id": 51,
+      "product_id": 3,
+      "parent_component_id": 15,
+      "component_id": 52,
+      "quantity": 2,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1.1"
+    },
+    {
+      "assembly_id": 52,
+      "product_id": 3,
+      "parent_component_id": 15,
+      "component_id": 13,
+      "quantity": 4,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1.2"
+    },
+    {
+      "assembly_id": 53,
+      "product_id": 3,
+      "parent_component_id": 15,
+      "component_id": 77,
+      "quantity": 4,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1.3"
+    },
+    {
+      "assembly_id": 54,
+      "product_id": 3,
+      "parent_component_id": 15,
+      "component_id": 27,
+      "quantity": 3,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1.4"
+    },
+    {
+      "assembly_id": 55,
+      "product_id": 3,
+      "parent_component_id": 98,
+      "component_id": 86,
+      "quantity": 1,
+      "level": 20,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 56,
+      "product_id": 3,
+      "parent_component_id": 86,
+      "component_id": 87,
+      "quantity": 4,
+      "level": 21,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 57,
+      "product_id": 3,
+      "parent_component_id": 87,
+      "component_id": 65,
+      "quantity": 3,
+      "level": 22,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1"
+    },
+    {
+      "assembly_id": 58,
+      "product_id": 4,
+      "parent_component_id": null,
+      "component_id": 96,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 59,
+      "product_id": 4,
+      "parent_component_id": 96,
+      "component_id": 8,
+      "quantity": 3,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 60,
+      "product_id": 4,
+      "parent_component_id": 8,
+      "component_id": 57,
+      "quantity": 1,
+      "level": 2,
+      "position_number": "1.1.1"
+    },
+    {
+      "assembly_id": 61,
+      "product_id": 4,
+      "parent_component_id": 57,
+      "component_id": 63,
+      "quantity": 1,
+      "level": 3,
+      "position_number": "1.1.1.1"
+    },
+    {
+      "assembly_id": 62,
+      "product_id": 4,
+      "parent_component_id": 63,
+      "component_id": 18,
+      "quantity": 3,
+      "level": 4,
+      "position_number": "1.1.1.1.1"
+    },
+    {
+      "assembly_id": 63,
+      "product_id": 4,
+      "parent_component_id": 18,
+      "component_id": 55,
+      "quantity": 1,
+      "level": 5,
+      "position_number": "1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 64,
+      "product_id": 4,
+      "parent_component_id": 55,
+      "component_id": 54,
+      "quantity": 4,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 65,
+      "product_id": 4,
+      "parent_component_id": 54,
+      "component_id": 60,
+      "quantity": 3,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 66,
+      "product_id": 4,
+      "parent_component_id": 60,
+      "component_id": 9,
+      "quantity": 3,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 67,
+      "product_id": 4,
+      "parent_component_id": 9,
+      "component_id": 95,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 68,
+      "product_id": 4,
+      "parent_component_id": 95,
+      "component_id": 51,
+      "quantity": 4,
+      "level": 10,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 69,
+      "product_id": 4,
+      "parent_component_id": 51,
+      "component_id": 90,
+      "quantity": 1,
+      "level": 11,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 70,
+      "product_id": 4,
+      "parent_component_id": 90,
+      "component_id": 100,
+      "quantity": 1,
+      "level": 12,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 71,
+      "product_id": 4,
+      "parent_component_id": 100,
+      "component_id": 47,
+      "quantity": 1,
+      "level": 13,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 72,
+      "product_id": 4,
+      "parent_component_id": 47,
+      "component_id": 78,
+      "quantity": 4,
+      "level": 14,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 73,
+      "product_id": 4,
+      "parent_component_id": 78,
+      "component_id": 41,
+      "quantity": 1,
+      "level": 15,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 74,
+      "product_id": 4,
+      "parent_component_id": 41,
+      "component_id": 37,
+      "quantity": 4,
+      "level": 16,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 75,
+      "product_id": 4,
+      "parent_component_id": 37,
+      "component_id": 49,
+      "quantity": 3,
+      "level": 17,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 76,
+      "product_id": 4,
+      "parent_component_id": 49,
+      "component_id": 75,
+      "quantity": 2,
+      "level": 18,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 77,
+      "product_id": 4,
+      "parent_component_id": 75,
+      "component_id": 7,
+      "quantity": 2,
+      "level": 19,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 78,
+      "product_id": 4,
+      "parent_component_id": 7,
+      "component_id": 88,
+      "quantity": 2,
+      "level": 20,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 79,
+      "product_id": 4,
+      "parent_component_id": 88,
+      "component_id": 35,
+      "quantity": 1,
+      "level": 21,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 80,
+      "product_id": 4,
+      "parent_component_id": 35,
+      "component_id": 69,
+      "quantity": 3,
+      "level": 22,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 81,
+      "product_id": 4,
+      "parent_component_id": 69,
+      "component_id": 25,
+      "quantity": 3,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 82,
+      "product_id": 4,
+      "parent_component_id": 25,
+      "component_id": 83,
+      "quantity": 3,
+      "level": 24,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 83,
+      "product_id": 4,
+      "parent_component_id": 83,
+      "component_id": 2,
+      "quantity": 3,
+      "level": 25,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 84,
+      "product_id": 4,
+      "parent_component_id": 2,
+      "component_id": 27,
+      "quantity": 2,
+      "level": 26,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 85,
+      "product_id": 4,
+      "parent_component_id": 27,
+      "component_id": 10,
+      "quantity": 4,
+      "level": 27,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 86,
+      "product_id": 4,
+      "parent_component_id": 10,
+      "component_id": 1,
+      "quantity": 4,
+      "level": 28,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 87,
+      "product_id": 4,
+      "parent_component_id": 1,
+      "component_id": 77,
+      "quantity": 2,
+      "level": 29,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 88,
+      "product_id": 4,
+      "parent_component_id": 77,
+      "component_id": 16,
+      "quantity": 2,
+      "level": 30,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 89,
+      "product_id": 4,
+      "parent_component_id": 16,
+      "component_id": 23,
+      "quantity": 1,
+      "level": 31,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 90,
+      "product_id": 4,
+      "parent_component_id": 23,
+      "component_id": 85,
+      "quantity": 1,
+      "level": 32,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 91,
+      "product_id": 4,
+      "parent_component_id": 85,
+      "component_id": 84,
+      "quantity": 4,
+      "level": 33,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 92,
+      "product_id": 4,
+      "parent_component_id": 84,
+      "component_id": 45,
+      "quantity": 4,
+      "level": 34,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 93,
+      "product_id": 4,
+      "parent_component_id": 45,
+      "component_id": 82,
+      "quantity": 4,
+      "level": 35,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 94,
+      "product_id": 4,
+      "parent_component_id": 82,
+      "component_id": 99,
+      "quantity": 3,
+      "level": 36,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 95,
+      "product_id": 4,
+      "parent_component_id": 99,
+      "component_id": 44,
+      "quantity": 4,
+      "level": 37,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 96,
+      "product_id": 4,
+      "parent_component_id": 44,
+      "component_id": 14,
+      "quantity": 4,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 97,
+      "product_id": 4,
+      "parent_component_id": 14,
+      "component_id": 34,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 98,
+      "product_id": 4,
+      "parent_component_id": 14,
+      "component_id": 66,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 99,
+      "product_id": 4,
+      "parent_component_id": 14,
+      "component_id": 40,
+      "quantity": 3,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 100,
+      "product_id": 4,
+      "parent_component_id": 44,
+      "component_id": 52,
+      "quantity": 1,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 101,
+      "product_id": 4,
+      "parent_component_id": 52,
+      "component_id": 17,
+      "quantity": 3,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 102,
+      "product_id": 4,
+      "parent_component_id": 52,
+      "component_id": 80,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.2"
+    },
+    {
+      "assembly_id": 103,
+      "product_id": 4,
+      "parent_component_id": 52,
+      "component_id": 39,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.3"
+    },
+    {
+      "assembly_id": 104,
+      "product_id": 4,
+      "parent_component_id": 44,
+      "component_id": 68,
+      "quantity": 4,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 105,
+      "product_id": 4,
+      "parent_component_id": 68,
+      "component_id": 32,
+      "quantity": 3,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1"
+    },
+    {
+      "assembly_id": 106,
+      "product_id": 4,
+      "parent_component_id": 44,
+      "component_id": 13,
+      "quantity": 1,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4"
+    },
+    {
+      "assembly_id": 107,
+      "product_id": 4,
+      "parent_component_id": 13,
+      "component_id": 79,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.1"
+    },
+    {
+      "assembly_id": 108,
+      "product_id": 4,
+      "parent_component_id": 44,
+      "component_id": 53,
+      "quantity": 1,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.5"
+    },
+    {
+      "assembly_id": 109,
+      "product_id": 4,
+      "parent_component_id": 53,
+      "component_id": 70,
+      "quantity": 3,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.5.1"
+    },
+    {
+      "assembly_id": 110,
+      "product_id": 4,
+      "parent_component_id": 53,
+      "component_id": 93,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.5.2"
+    },
+    {
+      "assembly_id": 111,
+      "product_id": 4,
+      "parent_component_id": 53,
+      "component_id": 38,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.5.3"
+    },
+    {
+      "assembly_id": 112,
+      "product_id": 4,
+      "parent_component_id": 53,
+      "component_id": 12,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.5.4"
+    },
+    {
+      "assembly_id": 113,
+      "product_id": 4,
+      "parent_component_id": 84,
+      "component_id": 36,
+      "quantity": 2,
+      "level": 34,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 114,
+      "product_id": 4,
+      "parent_component_id": 36,
+      "component_id": 91,
+      "quantity": 1,
+      "level": 35,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 115,
+      "product_id": 4,
+      "parent_component_id": 91,
+      "component_id": 98,
+      "quantity": 1,
+      "level": 36,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1"
+    },
+    {
+      "assembly_id": 116,
+      "product_id": 4,
+      "parent_component_id": 98,
+      "component_id": 26,
+      "quantity": 2,
+      "level": 37,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1"
+    },
+    {
+      "assembly_id": 117,
+      "product_id": 4,
+      "parent_component_id": 26,
+      "component_id": 61,
+      "quantity": 4,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.1"
+    },
+    {
+      "assembly_id": 118,
+      "product_id": 4,
+      "parent_component_id": 61,
+      "component_id": 71,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 119,
+      "product_id": 4,
+      "parent_component_id": 26,
+      "component_id": 74,
+      "quantity": 4,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.2"
+    },
+    {
+      "assembly_id": 120,
+      "product_id": 4,
+      "parent_component_id": 74,
+      "component_id": 59,
+      "quantity": 3,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 121,
+      "product_id": 4,
+      "parent_component_id": 74,
+      "component_id": 19,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.2.2"
+    },
+    {
+      "assembly_id": 122,
+      "product_id": 4,
+      "parent_component_id": 74,
+      "component_id": 43,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.2.3"
+    },
+    {
+      "assembly_id": 123,
+      "product_id": 4,
+      "parent_component_id": 74,
+      "component_id": 4,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.2.4"
+    },
+    {
+      "assembly_id": 124,
+      "product_id": 4,
+      "parent_component_id": 74,
+      "component_id": 56,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.2.5"
+    },
+    {
+      "assembly_id": 125,
+      "product_id": 4,
+      "parent_component_id": 26,
+      "component_id": 72,
+      "quantity": 3,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.3"
+    },
+    {
+      "assembly_id": 126,
+      "product_id": 4,
+      "parent_component_id": 72,
+      "component_id": 58,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.3.1"
+    },
+    {
+      "assembly_id": 127,
+      "product_id": 4,
+      "parent_component_id": 72,
+      "component_id": 31,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.3.2"
+    },
+    {
+      "assembly_id": 128,
+      "product_id": 4,
+      "parent_component_id": 72,
+      "component_id": 81,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.3.3"
+    },
+    {
+      "assembly_id": 129,
+      "product_id": 4,
+      "parent_component_id": 26,
+      "component_id": 30,
+      "quantity": 4,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.4"
+    },
+    {
+      "assembly_id": 130,
+      "product_id": 4,
+      "parent_component_id": 30,
+      "component_id": 73,
+      "quantity": 3,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.4.1"
+    },
+    {
+      "assembly_id": 131,
+      "product_id": 4,
+      "parent_component_id": 30,
+      "component_id": 97,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.4.2"
+    },
+    {
+      "assembly_id": 132,
+      "product_id": 4,
+      "parent_component_id": 30,
+      "component_id": 3,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.4.3"
+    },
+    {
+      "assembly_id": 133,
+      "product_id": 4,
+      "parent_component_id": 30,
+      "component_id": 92,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.4.4"
+    },
+    {
+      "assembly_id": 134,
+      "product_id": 4,
+      "parent_component_id": 30,
+      "component_id": 29,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1.1.4.5"
+    },
+    {
+      "assembly_id": 135,
+      "product_id": 4,
+      "parent_component_id": 91,
+      "component_id": 50,
+      "quantity": 1,
+      "level": 36,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2"
+    },
+    {
+      "assembly_id": 136,
+      "product_id": 4,
+      "parent_component_id": 50,
+      "component_id": 33,
+      "quantity": 4,
+      "level": 37,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1"
+    },
+    {
+      "assembly_id": 137,
+      "product_id": 4,
+      "parent_component_id": 33,
+      "component_id": 89,
+      "quantity": 4,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.1"
+    },
+    {
+      "assembly_id": 138,
+      "product_id": 4,
+      "parent_component_id": 89,
+      "component_id": 20,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.1.1"
+    },
+    {
+      "assembly_id": 139,
+      "product_id": 4,
+      "parent_component_id": 33,
+      "component_id": 21,
+      "quantity": 1,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.2"
+    },
+    {
+      "assembly_id": 140,
+      "product_id": 4,
+      "parent_component_id": 21,
+      "component_id": 24,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.2.1"
+    },
+    {
+      "assembly_id": 141,
+      "product_id": 4,
+      "parent_component_id": 21,
+      "component_id": 87,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.2.2"
+    },
+    {
+      "assembly_id": 142,
+      "product_id": 4,
+      "parent_component_id": 21,
+      "component_id": 15,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.2.3"
+    },
+    {
+      "assembly_id": 143,
+      "product_id": 4,
+      "parent_component_id": 21,
+      "component_id": 86,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.2.4"
+    },
+    {
+      "assembly_id": 144,
+      "product_id": 4,
+      "parent_component_id": 33,
+      "component_id": 48,
+      "quantity": 2,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.3"
+    },
+    {
+      "assembly_id": 145,
+      "product_id": 4,
+      "parent_component_id": 48,
+      "component_id": 46,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.3.1"
+    },
+    {
+      "assembly_id": 146,
+      "product_id": 4,
+      "parent_component_id": 48,
+      "component_id": 5,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.3.2"
+    },
+    {
+      "assembly_id": 147,
+      "product_id": 4,
+      "parent_component_id": 48,
+      "component_id": 42,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.3.3"
+    },
+    {
+      "assembly_id": 148,
+      "product_id": 4,
+      "parent_component_id": 48,
+      "component_id": 28,
+      "quantity": 2,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.3.4"
+    },
+    {
+      "assembly_id": 149,
+      "product_id": 4,
+      "parent_component_id": 48,
+      "component_id": 11,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.3.5"
+    },
+    {
+      "assembly_id": 150,
+      "product_id": 4,
+      "parent_component_id": 33,
+      "component_id": 67,
+      "quantity": 3,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.4"
+    },
+    {
+      "assembly_id": 151,
+      "product_id": 4,
+      "parent_component_id": 67,
+      "component_id": 6,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.4.1"
+    },
+    {
+      "assembly_id": 152,
+      "product_id": 4,
+      "parent_component_id": 67,
+      "component_id": 64,
+      "quantity": 1,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.4.2"
+    },
+    {
+      "assembly_id": 153,
+      "product_id": 4,
+      "parent_component_id": 67,
+      "component_id": 94,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.4.3"
+    },
+    {
+      "assembly_id": 154,
+      "product_id": 4,
+      "parent_component_id": 67,
+      "component_id": 62,
+      "quantity": 3,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.1.4.4"
+    },
+    {
+      "assembly_id": 155,
+      "product_id": 4,
+      "parent_component_id": 50,
+      "component_id": 76,
+      "quantity": 2,
+      "level": 37,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.2"
+    },
+    {
+      "assembly_id": 156,
+      "product_id": 4,
+      "parent_component_id": 76,
+      "component_id": 22,
+      "quantity": 2,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.2.1"
+    },
+    {
+      "assembly_id": 157,
+      "product_id": 4,
+      "parent_component_id": 22,
+      "component_id": 65,
+      "quantity": 4,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2.2.1.1"
+    },
+    {
+      "assembly_id": 158,
+      "product_id": 5,
+      "parent_component_id": null,
+      "component_id": 76,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 159,
+      "product_id": 5,
+      "parent_component_id": 76,
+      "component_id": 27,
+      "quantity": 1,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 160,
+      "product_id": 6,
+      "parent_component_id": null,
+      "component_id": 70,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 161,
+      "product_id": 6,
+      "parent_component_id": 70,
+      "component_id": 86,
+      "quantity": 1,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 162,
+      "product_id": 6,
+      "parent_component_id": 86,
+      "component_id": 92,
+      "quantity": 1,
+      "level": 2,
+      "position_number": "1.1.1"
+    },
+    {
+      "assembly_id": 163,
+      "product_id": 6,
+      "parent_component_id": 92,
+      "component_id": 63,
+      "quantity": 3,
+      "level": 3,
+      "position_number": "1.1.1.1"
+    },
+    {
+      "assembly_id": 164,
+      "product_id": 6,
+      "parent_component_id": 63,
+      "component_id": 18,
+      "quantity": 3,
+      "level": 4,
+      "position_number": "1.1.1.1.1"
+    },
+    {
+      "assembly_id": 165,
+      "product_id": 6,
+      "parent_component_id": 18,
+      "component_id": 26,
+      "quantity": 2,
+      "level": 5,
+      "position_number": "1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 166,
+      "product_id": 6,
+      "parent_component_id": 26,
+      "component_id": 72,
+      "quantity": 1,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 167,
+      "product_id": 6,
+      "parent_component_id": 72,
+      "component_id": 44,
+      "quantity": 1,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 168,
+      "product_id": 6,
+      "parent_component_id": 72,
+      "component_id": 55,
+      "quantity": 1,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 169,
+      "product_id": 6,
+      "parent_component_id": 72,
+      "component_id": 100,
+      "quantity": 4,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 170,
+      "product_id": 6,
+      "parent_component_id": 72,
+      "component_id": 69,
+      "quantity": 3,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.4"
+    },
+    {
+      "assembly_id": 171,
+      "product_id": 6,
+      "parent_component_id": 72,
+      "component_id": 25,
+      "quantity": 1,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.5"
+    },
+    {
+      "assembly_id": 172,
+      "product_id": 7,
+      "parent_component_id": null,
+      "component_id": 96,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 173,
+      "product_id": 7,
+      "parent_component_id": 96,
+      "component_id": 21,
+      "quantity": 4,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 174,
+      "product_id": 7,
+      "parent_component_id": 21,
+      "component_id": 92,
+      "quantity": 4,
+      "level": 2,
+      "position_number": "1.1.1"
+    },
+    {
+      "assembly_id": 175,
+      "product_id": 7,
+      "parent_component_id": 92,
+      "component_id": 83,
+      "quantity": 4,
+      "level": 3,
+      "position_number": "1.1.1.1"
+    },
+    {
+      "assembly_id": 176,
+      "product_id": 7,
+      "parent_component_id": 83,
+      "component_id": 43,
+      "quantity": 3,
+      "level": 4,
+      "position_number": "1.1.1.1.1"
+    },
+    {
+      "assembly_id": 177,
+      "product_id": 7,
+      "parent_component_id": 43,
+      "component_id": 59,
+      "quantity": 1,
+      "level": 5,
+      "position_number": "1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 178,
+      "product_id": 7,
+      "parent_component_id": 59,
+      "component_id": 8,
+      "quantity": 3,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 179,
+      "product_id": 7,
+      "parent_component_id": 8,
+      "component_id": 31,
+      "quantity": 3,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 180,
+      "product_id": 7,
+      "parent_component_id": 31,
+      "component_id": 52,
+      "quantity": 3,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 181,
+      "product_id": 7,
+      "parent_component_id": 52,
+      "component_id": 37,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 182,
+      "product_id": 7,
+      "parent_component_id": 52,
+      "component_id": 39,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 183,
+      "product_id": 7,
+      "parent_component_id": 52,
+      "component_id": 55,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 184,
+      "product_id": 7,
+      "parent_component_id": 8,
+      "component_id": 82,
+      "quantity": 2,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 185,
+      "product_id": 7,
+      "parent_component_id": 82,
+      "component_id": 36,
+      "quantity": 1,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 186,
+      "product_id": 7,
+      "parent_component_id": 36,
+      "component_id": 49,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.2.1.1"
+    },
+    {
+      "assembly_id": 187,
+      "product_id": 7,
+      "parent_component_id": 36,
+      "component_id": 27,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.2.1.2"
+    },
+    {
+      "assembly_id": 188,
+      "product_id": 7,
+      "parent_component_id": 36,
+      "component_id": 80,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.2.1.3"
+    },
+    {
+      "assembly_id": 189,
+      "product_id": 7,
+      "parent_component_id": 36,
+      "component_id": 94,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.2.1.4"
+    },
+    {
+      "assembly_id": 190,
+      "product_id": 7,
+      "parent_component_id": 36,
+      "component_id": 44,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.2.1.5"
+    },
+    {
+      "assembly_id": 191,
+      "product_id": 7,
+      "parent_component_id": 82,
+      "component_id": 9,
+      "quantity": 4,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.2.2"
+    },
+    {
+      "assembly_id": 192,
+      "product_id": 7,
+      "parent_component_id": 9,
+      "component_id": 76,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.2.2.1"
+    },
+    {
+      "assembly_id": 193,
+      "product_id": 7,
+      "parent_component_id": 9,
+      "component_id": 16,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.2.2.2"
+    },
+    {
+      "assembly_id": 194,
+      "product_id": 7,
+      "parent_component_id": 8,
+      "component_id": 30,
+      "quantity": 2,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 195,
+      "product_id": 7,
+      "parent_component_id": 30,
+      "component_id": 20,
+      "quantity": 4,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.3.1"
+    },
+    {
+      "assembly_id": 196,
+      "product_id": 7,
+      "parent_component_id": 20,
+      "component_id": 13,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.1.1"
+    },
+    {
+      "assembly_id": 197,
+      "product_id": 7,
+      "parent_component_id": 20,
+      "component_id": 65,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.1.2"
+    },
+    {
+      "assembly_id": 198,
+      "product_id": 7,
+      "parent_component_id": 30,
+      "component_id": 72,
+      "quantity": 2,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.3.2"
+    },
+    {
+      "assembly_id": 199,
+      "product_id": 7,
+      "parent_component_id": 72,
+      "component_id": 24,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.2.1"
+    },
+    {
+      "assembly_id": 200,
+      "product_id": 7,
+      "parent_component_id": 72,
+      "component_id": 3,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.2.2"
+    },
+    {
+      "assembly_id": 201,
+      "product_id": 7,
+      "parent_component_id": 72,
+      "component_id": 69,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.2.3"
+    },
+    {
+      "assembly_id": 202,
+      "product_id": 7,
+      "parent_component_id": 72,
+      "component_id": 4,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.2.4"
+    },
+    {
+      "assembly_id": 203,
+      "product_id": 7,
+      "parent_component_id": 30,
+      "component_id": 22,
+      "quantity": 4,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.3.3"
+    },
+    {
+      "assembly_id": 204,
+      "product_id": 7,
+      "parent_component_id": 22,
+      "component_id": 11,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.3.1"
+    },
+    {
+      "assembly_id": 205,
+      "product_id": 7,
+      "parent_component_id": 22,
+      "component_id": 62,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.3.2"
+    },
+    {
+      "assembly_id": 206,
+      "product_id": 7,
+      "parent_component_id": 22,
+      "component_id": 48,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.3.3"
+    },
+    {
+      "assembly_id": 207,
+      "product_id": 7,
+      "parent_component_id": 22,
+      "component_id": 60,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.3.4"
+    },
+    {
+      "assembly_id": 208,
+      "product_id": 7,
+      "parent_component_id": 22,
+      "component_id": 84,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.3.3.5"
+    },
+    {
+      "assembly_id": 209,
+      "product_id": 7,
+      "parent_component_id": 8,
+      "component_id": 18,
+      "quantity": 3,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.4"
+    },
+    {
+      "assembly_id": 210,
+      "product_id": 7,
+      "parent_component_id": 18,
+      "component_id": 90,
+      "quantity": 2,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.4.1"
+    },
+    {
+      "assembly_id": 211,
+      "product_id": 7,
+      "parent_component_id": 90,
+      "component_id": 47,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.4.1.1"
+    },
+    {
+      "assembly_id": 212,
+      "product_id": 7,
+      "parent_component_id": 90,
+      "component_id": 81,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.4.1.2"
+    },
+    {
+      "assembly_id": 213,
+      "product_id": 7,
+      "parent_component_id": 90,
+      "component_id": 34,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.4.1.3"
+    },
+    {
+      "assembly_id": 214,
+      "product_id": 7,
+      "parent_component_id": 90,
+      "component_id": 35,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.4.1.4"
+    },
+    {
+      "assembly_id": 215,
+      "product_id": 7,
+      "parent_component_id": 18,
+      "component_id": 86,
+      "quantity": 4,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.4.2"
+    },
+    {
+      "assembly_id": 216,
+      "product_id": 7,
+      "parent_component_id": 86,
+      "component_id": 100,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.4.2.1"
+    },
+    {
+      "assembly_id": 217,
+      "product_id": 7,
+      "parent_component_id": 18,
+      "component_id": 29,
+      "quantity": 2,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.4.3"
+    },
+    {
+      "assembly_id": 218,
+      "product_id": 7,
+      "parent_component_id": 29,
+      "component_id": 32,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.4.3.1"
+    },
+    {
+      "assembly_id": 219,
+      "product_id": 7,
+      "parent_component_id": 8,
+      "component_id": 54,
+      "quantity": 1,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.5"
+    },
+    {
+      "assembly_id": 220,
+      "product_id": 7,
+      "parent_component_id": 54,
+      "component_id": 71,
+      "quantity": 1,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.5.1"
+    },
+    {
+      "assembly_id": 221,
+      "product_id": 7,
+      "parent_component_id": 71,
+      "component_id": 70,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.1.1"
+    },
+    {
+      "assembly_id": 222,
+      "product_id": 7,
+      "parent_component_id": 71,
+      "component_id": 23,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.1.2"
+    },
+    {
+      "assembly_id": 223,
+      "product_id": 7,
+      "parent_component_id": 71,
+      "component_id": 67,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.1.3"
+    },
+    {
+      "assembly_id": 224,
+      "product_id": 7,
+      "parent_component_id": 71,
+      "component_id": 50,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.1.4"
+    },
+    {
+      "assembly_id": 225,
+      "product_id": 7,
+      "parent_component_id": 71,
+      "component_id": 19,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.1.5"
+    },
+    {
+      "assembly_id": 226,
+      "product_id": 7,
+      "parent_component_id": 54,
+      "component_id": 1,
+      "quantity": 4,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.5.2"
+    },
+    {
+      "assembly_id": 227,
+      "product_id": 7,
+      "parent_component_id": 1,
+      "component_id": 33,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.2.1"
+    },
+    {
+      "assembly_id": 228,
+      "product_id": 7,
+      "parent_component_id": 1,
+      "component_id": 63,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.2.2"
+    },
+    {
+      "assembly_id": 229,
+      "product_id": 7,
+      "parent_component_id": 1,
+      "component_id": 25,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.2.3"
+    },
+    {
+      "assembly_id": 230,
+      "product_id": 7,
+      "parent_component_id": 1,
+      "component_id": 41,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.2.4"
+    },
+    {
+      "assembly_id": 231,
+      "product_id": 7,
+      "parent_component_id": 1,
+      "component_id": 91,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.2.5"
+    },
+    {
+      "assembly_id": 232,
+      "product_id": 7,
+      "parent_component_id": 54,
+      "component_id": 2,
+      "quantity": 4,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.5.3"
+    },
+    {
+      "assembly_id": 233,
+      "product_id": 7,
+      "parent_component_id": 2,
+      "component_id": 6,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.3.1"
+    },
+    {
+      "assembly_id": 234,
+      "product_id": 7,
+      "parent_component_id": 2,
+      "component_id": 93,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.3.2"
+    },
+    {
+      "assembly_id": 235,
+      "product_id": 7,
+      "parent_component_id": 54,
+      "component_id": 97,
+      "quantity": 4,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.5.4"
+    },
+    {
+      "assembly_id": 236,
+      "product_id": 7,
+      "parent_component_id": 97,
+      "component_id": 51,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.4.1"
+    },
+    {
+      "assembly_id": 237,
+      "product_id": 7,
+      "parent_component_id": 97,
+      "component_id": 95,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.4.2"
+    },
+    {
+      "assembly_id": 238,
+      "product_id": 7,
+      "parent_component_id": 97,
+      "component_id": 15,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.4.3"
+    },
+    {
+      "assembly_id": 239,
+      "product_id": 7,
+      "parent_component_id": 54,
+      "component_id": 46,
+      "quantity": 2,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.5.5"
+    },
+    {
+      "assembly_id": 240,
+      "product_id": 7,
+      "parent_component_id": 46,
+      "component_id": 88,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.5.1"
+    },
+    {
+      "assembly_id": 241,
+      "product_id": 7,
+      "parent_component_id": 46,
+      "component_id": 14,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.5.5.2"
+    },
+    {
+      "assembly_id": 242,
+      "product_id": 7,
+      "parent_component_id": 59,
+      "component_id": 10,
+      "quantity": 3,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 243,
+      "product_id": 7,
+      "parent_component_id": 10,
+      "component_id": 87,
+      "quantity": 4,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 244,
+      "product_id": 7,
+      "parent_component_id": 87,
+      "component_id": 77,
+      "quantity": 3,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.2.1.1"
+    },
+    {
+      "assembly_id": 245,
+      "product_id": 7,
+      "parent_component_id": 77,
+      "component_id": 26,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.1.1.1"
+    },
+    {
+      "assembly_id": 246,
+      "product_id": 7,
+      "parent_component_id": 77,
+      "component_id": 98,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.1.1.2"
+    },
+    {
+      "assembly_id": 247,
+      "product_id": 7,
+      "parent_component_id": 87,
+      "component_id": 64,
+      "quantity": 4,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.2.1.2"
+    },
+    {
+      "assembly_id": 248,
+      "product_id": 7,
+      "parent_component_id": 64,
+      "component_id": 68,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.1.2.1"
+    },
+    {
+      "assembly_id": 249,
+      "product_id": 7,
+      "parent_component_id": 64,
+      "component_id": 78,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.1.2.2"
+    },
+    {
+      "assembly_id": 250,
+      "product_id": 7,
+      "parent_component_id": 64,
+      "component_id": 74,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.1.2.3"
+    },
+    {
+      "assembly_id": 251,
+      "product_id": 7,
+      "parent_component_id": 64,
+      "component_id": 45,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.1.2.4"
+    },
+    {
+      "assembly_id": 252,
+      "product_id": 7,
+      "parent_component_id": 64,
+      "component_id": 99,
+      "quantity": 3,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.1.2.5"
+    },
+    {
+      "assembly_id": 253,
+      "product_id": 7,
+      "parent_component_id": 10,
+      "component_id": 58,
+      "quantity": 2,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.2.2"
+    },
+    {
+      "assembly_id": 254,
+      "product_id": 7,
+      "parent_component_id": 58,
+      "component_id": 61,
+      "quantity": 2,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.2.2.1"
+    },
+    {
+      "assembly_id": 255,
+      "product_id": 7,
+      "parent_component_id": 61,
+      "component_id": 17,
+      "quantity": 4,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.2.1.1"
+    },
+    {
+      "assembly_id": 256,
+      "product_id": 7,
+      "parent_component_id": 61,
+      "component_id": 5,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.2.1.2"
+    },
+    {
+      "assembly_id": 257,
+      "product_id": 7,
+      "parent_component_id": 61,
+      "component_id": 75,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.2.1.3"
+    },
+    {
+      "assembly_id": 258,
+      "product_id": 7,
+      "parent_component_id": 61,
+      "component_id": 42,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.2.1.4"
+    },
+    {
+      "assembly_id": 259,
+      "product_id": 7,
+      "parent_component_id": 61,
+      "component_id": 85,
+      "quantity": 1,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.2.1.5"
+    },
+    {
+      "assembly_id": 260,
+      "product_id": 7,
+      "parent_component_id": 58,
+      "component_id": 38,
+      "quantity": 2,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.2.2.2"
+    },
+    {
+      "assembly_id": 261,
+      "product_id": 7,
+      "parent_component_id": 38,
+      "component_id": 57,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.2.2.2.1"
+    },
+    {
+      "assembly_id": 262,
+      "product_id": 7,
+      "parent_component_id": 10,
+      "component_id": 66,
+      "quantity": 1,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.2.3"
+    },
+    {
+      "assembly_id": 263,
+      "product_id": 8,
+      "parent_component_id": null,
+      "component_id": 5,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 264,
+      "product_id": 8,
+      "parent_component_id": 5,
+      "component_id": 55,
+      "quantity": 1,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 265,
+      "product_id": 8,
+      "parent_component_id": 55,
+      "component_id": 29,
+      "quantity": 2,
+      "level": 2,
+      "position_number": "1.1.1"
+    },
+    {
+      "assembly_id": 266,
+      "product_id": 8,
+      "parent_component_id": 29,
+      "component_id": 12,
+      "quantity": 4,
+      "level": 3,
+      "position_number": "1.1.1.1"
+    },
+    {
+      "assembly_id": 267,
+      "product_id": 8,
+      "parent_component_id": 12,
+      "component_id": 9,
+      "quantity": 3,
+      "level": 4,
+      "position_number": "1.1.1.1.1"
+    },
+    {
+      "assembly_id": 268,
+      "product_id": 8,
+      "parent_component_id": 9,
+      "component_id": 28,
+      "quantity": 2,
+      "level": 5,
+      "position_number": "1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 269,
+      "product_id": 8,
+      "parent_component_id": 28,
+      "component_id": 86,
+      "quantity": 3,
+      "level": 6,
+      "position_number": "1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 270,
+      "product_id": 8,
+      "parent_component_id": 86,
+      "component_id": 99,
+      "quantity": 1,
+      "level": 7,
+      "position_number": "1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 271,
+      "product_id": 8,
+      "parent_component_id": 99,
+      "component_id": 2,
+      "quantity": 3,
+      "level": 8,
+      "position_number": "1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 272,
+      "product_id": 8,
+      "parent_component_id": 2,
+      "component_id": 52,
+      "quantity": 2,
+      "level": 9,
+      "position_number": "1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 273,
+      "product_id": 8,
+      "parent_component_id": 52,
+      "component_id": 91,
+      "quantity": 2,
+      "level": 10,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 274,
+      "product_id": 8,
+      "parent_component_id": 91,
+      "component_id": 3,
+      "quantity": 2,
+      "level": 11,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 275,
+      "product_id": 8,
+      "parent_component_id": 3,
+      "component_id": 44,
+      "quantity": 4,
+      "level": 12,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 276,
+      "product_id": 8,
+      "parent_component_id": 44,
+      "component_id": 34,
+      "quantity": 4,
+      "level": 13,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 277,
+      "product_id": 8,
+      "parent_component_id": 34,
+      "component_id": 46,
+      "quantity": 4,
+      "level": 14,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 278,
+      "product_id": 8,
+      "parent_component_id": 46,
+      "component_id": 79,
+      "quantity": 1,
+      "level": 15,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 279,
+      "product_id": 8,
+      "parent_component_id": 79,
+      "component_id": 95,
+      "quantity": 1,
+      "level": 16,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 280,
+      "product_id": 8,
+      "parent_component_id": 95,
+      "component_id": 76,
+      "quantity": 4,
+      "level": 17,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 281,
+      "product_id": 8,
+      "parent_component_id": 76,
+      "component_id": 87,
+      "quantity": 1,
+      "level": 18,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 282,
+      "product_id": 8,
+      "parent_component_id": 87,
+      "component_id": 82,
+      "quantity": 3,
+      "level": 19,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 283,
+      "product_id": 8,
+      "parent_component_id": 82,
+      "component_id": 65,
+      "quantity": 1,
+      "level": 20,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 284,
+      "product_id": 8,
+      "parent_component_id": 65,
+      "component_id": 8,
+      "quantity": 4,
+      "level": 21,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 285,
+      "product_id": 8,
+      "parent_component_id": 8,
+      "component_id": 58,
+      "quantity": 4,
+      "level": 22,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 286,
+      "product_id": 8,
+      "parent_component_id": 58,
+      "component_id": 16,
+      "quantity": 4,
+      "level": 23,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 287,
+      "product_id": 8,
+      "parent_component_id": 16,
+      "component_id": 32,
+      "quantity": 2,
+      "level": 24,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 288,
+      "product_id": 8,
+      "parent_component_id": 32,
+      "component_id": 68,
+      "quantity": 1,
+      "level": 25,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 289,
+      "product_id": 8,
+      "parent_component_id": 68,
+      "component_id": 77,
+      "quantity": 3,
+      "level": 26,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 290,
+      "product_id": 8,
+      "parent_component_id": 77,
+      "component_id": 49,
+      "quantity": 3,
+      "level": 27,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 291,
+      "product_id": 8,
+      "parent_component_id": 49,
+      "component_id": 83,
+      "quantity": 3,
+      "level": 28,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 292,
+      "product_id": 8,
+      "parent_component_id": 83,
+      "component_id": 50,
+      "quantity": 1,
+      "level": 29,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 293,
+      "product_id": 8,
+      "parent_component_id": 50,
+      "component_id": 89,
+      "quantity": 1,
+      "level": 30,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 294,
+      "product_id": 8,
+      "parent_component_id": 89,
+      "component_id": 35,
+      "quantity": 1,
+      "level": 31,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 295,
+      "product_id": 8,
+      "parent_component_id": 35,
+      "component_id": 94,
+      "quantity": 4,
+      "level": 32,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 296,
+      "product_id": 8,
+      "parent_component_id": 94,
+      "component_id": 42,
+      "quantity": 4,
+      "level": 33,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 297,
+      "product_id": 8,
+      "parent_component_id": 42,
+      "component_id": 27,
+      "quantity": 4,
+      "level": 34,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 298,
+      "product_id": 8,
+      "parent_component_id": 27,
+      "component_id": 92,
+      "quantity": 2,
+      "level": 35,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 299,
+      "product_id": 8,
+      "parent_component_id": 92,
+      "component_id": 60,
+      "quantity": 2,
+      "level": 36,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 300,
+      "product_id": 8,
+      "parent_component_id": 60,
+      "component_id": 71,
+      "quantity": 3,
+      "level": 37,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 301,
+      "product_id": 8,
+      "parent_component_id": 71,
+      "component_id": 21,
+      "quantity": 3,
+      "level": 38,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 302,
+      "product_id": 8,
+      "parent_component_id": 21,
+      "component_id": 45,
+      "quantity": 3,
+      "level": 39,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 303,
+      "product_id": 8,
+      "parent_component_id": 45,
+      "component_id": 4,
+      "quantity": 1,
+      "level": 40,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 304,
+      "product_id": 8,
+      "parent_component_id": 4,
+      "component_id": 11,
+      "quantity": 3,
+      "level": 41,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 305,
+      "product_id": 8,
+      "parent_component_id": 11,
+      "component_id": 6,
+      "quantity": 1,
+      "level": 42,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 306,
+      "product_id": 8,
+      "parent_component_id": 6,
+      "component_id": 81,
+      "quantity": 4,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 307,
+      "product_id": 8,
+      "parent_component_id": 81,
+      "component_id": 62,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 308,
+      "product_id": 8,
+      "parent_component_id": 81,
+      "component_id": 59,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 309,
+      "product_id": 8,
+      "parent_component_id": 81,
+      "component_id": 18,
+      "quantity": 1,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 310,
+      "product_id": 8,
+      "parent_component_id": 81,
+      "component_id": 30,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4"
+    },
+    {
+      "assembly_id": 311,
+      "product_id": 8,
+      "parent_component_id": 11,
+      "component_id": 72,
+      "quantity": 3,
+      "level": 42,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 312,
+      "product_id": 8,
+      "parent_component_id": 72,
+      "component_id": 53,
+      "quantity": 1,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1"
+    },
+    {
+      "assembly_id": 313,
+      "product_id": 8,
+      "parent_component_id": 53,
+      "component_id": 69,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.1"
+    },
+    {
+      "assembly_id": 314,
+      "product_id": 8,
+      "parent_component_id": 53,
+      "component_id": 14,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.2"
+    },
+    {
+      "assembly_id": 315,
+      "product_id": 8,
+      "parent_component_id": 53,
+      "component_id": 37,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.1.3"
+    },
+    {
+      "assembly_id": 316,
+      "product_id": 8,
+      "parent_component_id": 72,
+      "component_id": 7,
+      "quantity": 2,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.2"
+    },
+    {
+      "assembly_id": 317,
+      "product_id": 8,
+      "parent_component_id": 7,
+      "component_id": 90,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.2.1"
+    },
+    {
+      "assembly_id": 318,
+      "product_id": 8,
+      "parent_component_id": 7,
+      "component_id": 93,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.2.2"
+    },
+    {
+      "assembly_id": 319,
+      "product_id": 8,
+      "parent_component_id": 7,
+      "component_id": 51,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.2.3"
+    },
+    {
+      "assembly_id": 320,
+      "product_id": 8,
+      "parent_component_id": 7,
+      "component_id": 67,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.2.4"
+    },
+    {
+      "assembly_id": 321,
+      "product_id": 8,
+      "parent_component_id": 72,
+      "component_id": 63,
+      "quantity": 2,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.3"
+    },
+    {
+      "assembly_id": 322,
+      "product_id": 8,
+      "parent_component_id": 63,
+      "component_id": 43,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.3.1"
+    },
+    {
+      "assembly_id": 323,
+      "product_id": 8,
+      "parent_component_id": 63,
+      "component_id": 40,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.3.2"
+    },
+    {
+      "assembly_id": 324,
+      "product_id": 8,
+      "parent_component_id": 63,
+      "component_id": 54,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.3.3"
+    },
+    {
+      "assembly_id": 325,
+      "product_id": 8,
+      "parent_component_id": 63,
+      "component_id": 41,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.3.4"
+    },
+    {
+      "assembly_id": 326,
+      "product_id": 8,
+      "parent_component_id": 63,
+      "component_id": 73,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.3.5"
+    },
+    {
+      "assembly_id": 327,
+      "product_id": 8,
+      "parent_component_id": 72,
+      "component_id": 20,
+      "quantity": 4,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.4"
+    },
+    {
+      "assembly_id": 328,
+      "product_id": 8,
+      "parent_component_id": 20,
+      "component_id": 23,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.4.1"
+    },
+    {
+      "assembly_id": 329,
+      "product_id": 8,
+      "parent_component_id": 20,
+      "component_id": 17,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2.4.2"
+    },
+    {
+      "assembly_id": 330,
+      "product_id": 8,
+      "parent_component_id": 11,
+      "component_id": 85,
+      "quantity": 2,
+      "level": 42,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3"
+    },
+    {
+      "assembly_id": 331,
+      "product_id": 8,
+      "parent_component_id": 85,
+      "component_id": 39,
+      "quantity": 2,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1"
+    },
+    {
+      "assembly_id": 332,
+      "product_id": 8,
+      "parent_component_id": 39,
+      "component_id": 33,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1.1"
+    },
+    {
+      "assembly_id": 333,
+      "product_id": 8,
+      "parent_component_id": 39,
+      "component_id": 64,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1.2"
+    },
+    {
+      "assembly_id": 334,
+      "product_id": 8,
+      "parent_component_id": 39,
+      "component_id": 25,
+      "quantity": 1,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1.3"
+    },
+    {
+      "assembly_id": 335,
+      "product_id": 8,
+      "parent_component_id": 39,
+      "component_id": 56,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.1.4"
+    },
+    {
+      "assembly_id": 336,
+      "product_id": 8,
+      "parent_component_id": 85,
+      "component_id": 36,
+      "quantity": 4,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.2"
+    },
+    {
+      "assembly_id": 337,
+      "product_id": 8,
+      "parent_component_id": 36,
+      "component_id": 88,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.2.1"
+    },
+    {
+      "assembly_id": 338,
+      "product_id": 8,
+      "parent_component_id": 36,
+      "component_id": 24,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.2.2"
+    },
+    {
+      "assembly_id": 339,
+      "product_id": 8,
+      "parent_component_id": 36,
+      "component_id": 66,
+      "quantity": 1,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.2.3"
+    },
+    {
+      "assembly_id": 340,
+      "product_id": 8,
+      "parent_component_id": 36,
+      "component_id": 15,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.2.4"
+    },
+    {
+      "assembly_id": 341,
+      "product_id": 8,
+      "parent_component_id": 36,
+      "component_id": 19,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.2.5"
+    },
+    {
+      "assembly_id": 342,
+      "product_id": 8,
+      "parent_component_id": 85,
+      "component_id": 74,
+      "quantity": 2,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.3"
+    },
+    {
+      "assembly_id": 343,
+      "product_id": 8,
+      "parent_component_id": 74,
+      "component_id": 84,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.3.1"
+    },
+    {
+      "assembly_id": 344,
+      "product_id": 8,
+      "parent_component_id": 74,
+      "component_id": 61,
+      "quantity": 1,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.3.2"
+    },
+    {
+      "assembly_id": 345,
+      "product_id": 8,
+      "parent_component_id": 74,
+      "component_id": 70,
+      "quantity": 1,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.3.3"
+    },
+    {
+      "assembly_id": 346,
+      "product_id": 8,
+      "parent_component_id": 85,
+      "component_id": 22,
+      "quantity": 2,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.4"
+    },
+    {
+      "assembly_id": 347,
+      "product_id": 8,
+      "parent_component_id": 22,
+      "component_id": 26,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.3.4.1"
+    },
+    {
+      "assembly_id": 348,
+      "product_id": 8,
+      "parent_component_id": 11,
+      "component_id": 31,
+      "quantity": 2,
+      "level": 42,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4"
+    },
+    {
+      "assembly_id": 349,
+      "product_id": 8,
+      "parent_component_id": 31,
+      "component_id": 75,
+      "quantity": 1,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.1"
+    },
+    {
+      "assembly_id": 350,
+      "product_id": 8,
+      "parent_component_id": 75,
+      "component_id": 100,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.1.1"
+    },
+    {
+      "assembly_id": 351,
+      "product_id": 8,
+      "parent_component_id": 31,
+      "component_id": 96,
+      "quantity": 1,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.2"
+    },
+    {
+      "assembly_id": 352,
+      "product_id": 8,
+      "parent_component_id": 96,
+      "component_id": 1,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.2.1"
+    },
+    {
+      "assembly_id": 353,
+      "product_id": 8,
+      "parent_component_id": 96,
+      "component_id": 98,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.2.2"
+    },
+    {
+      "assembly_id": 354,
+      "product_id": 8,
+      "parent_component_id": 96,
+      "component_id": 80,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.2.3"
+    },
+    {
+      "assembly_id": 355,
+      "product_id": 8,
+      "parent_component_id": 31,
+      "component_id": 97,
+      "quantity": 3,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.3"
+    },
+    {
+      "assembly_id": 356,
+      "product_id": 8,
+      "parent_component_id": 97,
+      "component_id": 47,
+      "quantity": 1,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.3.1"
+    },
+    {
+      "assembly_id": 357,
+      "product_id": 8,
+      "parent_component_id": 97,
+      "component_id": 48,
+      "quantity": 2,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.3.2"
+    },
+    {
+      "assembly_id": 358,
+      "product_id": 8,
+      "parent_component_id": 97,
+      "component_id": 38,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.3.3"
+    },
+    {
+      "assembly_id": 359,
+      "product_id": 8,
+      "parent_component_id": 97,
+      "component_id": 78,
+      "quantity": 4,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.3.4"
+    },
+    {
+      "assembly_id": 360,
+      "product_id": 8,
+      "parent_component_id": 31,
+      "component_id": 57,
+      "quantity": 2,
+      "level": 43,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.4"
+    },
+    {
+      "assembly_id": 361,
+      "product_id": 8,
+      "parent_component_id": 57,
+      "component_id": 10,
+      "quantity": 3,
+      "level": 44,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.4.4.1"
+    },
+    {
+      "assembly_id": 362,
+      "product_id": 8,
+      "parent_component_id": 4,
+      "component_id": 13,
+      "quantity": 2,
+      "level": 41,
+      "position_number": "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.2"
+    },
+    {
+      "assembly_id": 363,
+      "product_id": 9,
+      "parent_component_id": null,
+      "component_id": 46,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 364,
+      "product_id": 9,
+      "parent_component_id": 46,
+      "component_id": 4,
+      "quantity": 1,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 365,
+      "product_id": 9,
+      "parent_component_id": 4,
+      "component_id": 51,
+      "quantity": 4,
+      "level": 2,
+      "position_number": "1.1.1"
+    },
+    {
+      "assembly_id": 366,
+      "product_id": 10,
+      "parent_component_id": null,
+      "component_id": 39,
+      "quantity": 1,
+      "level": 0,
+      "position_number": "1"
+    },
+    {
+      "assembly_id": 367,
+      "product_id": 10,
+      "parent_component_id": 39,
+      "component_id": 64,
+      "quantity": 1,
+      "level": 1,
+      "position_number": "1.1"
+    },
+    {
+      "assembly_id": 368,
+      "product_id": 10,
+      "parent_component_id": 64,
+      "component_id": 93,
+      "quantity": 3,
+      "level": 2,
+      "position_number": "1.1.1"
+    },
+    {
+      "assembly_id": 369,
+      "product_id": 10,
+      "parent_component_id": 93,
+      "component_id": 56,
+      "quantity": 3,
+      "level": 3,
+      "position_number": "1.1.1.1"
+    },
+    {
+      "assembly_id": 370,
+      "product_id": 10,
+      "parent_component_id": 56,
+      "component_id": 23,
+      "quantity": 4,
+      "level": 4,
+      "position_number": "1.1.1.1.1"
+    },
+    {
+      "assembly_id": 371,
+      "product_id": 10,
+      "parent_component_id": 23,
+      "component_id": 53,
+      "quantity": 3,
+      "level": 5,
+      "position_number": "1.1.1.1.1.1"
+    },
+    {
+      "assembly_id": 372,
+      "product_id": 10,
+      "parent_component_id": 93,
+      "component_id": 10,
+      "quantity": 1,
+      "level": 3,
+      "position_number": "1.1.1.2"
+    },
+    {
+      "assembly_id": 373,
+      "product_id": 10,
+      "parent_component_id": 10,
+      "component_id": 38,
+      "quantity": 1,
+      "level": 4,
+      "position_number": "1.1.1.2.1"
+    },
+    {
+      "assembly_id": 374,
+      "product_id": 10,
+      "parent_component_id": 38,
+      "component_id": 14,
+      "quantity": 4,
+      "level": 5,
+      "position_number": "1.1.1.2.1.1"
+    }
+  ],
+  "component_attributes": [
+    {
+      "attribute_id": 1,
+      "component_id": 1,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 2,
+      "component_id": 2,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 3,
+      "component_id": 3,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 4,
+      "component_id": 4,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 5,
+      "component_id": 5,
+      "attribute_name": "Объём",
+      "attribute_value": "1024",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 6,
+      "component_id": 5,
+      "attribute_name": "Тип",
+      "attribute_value": "DDR4",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 7,
+      "component_id": 5,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 8,
+      "component_id": 6,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 9,
+      "component_id": 7,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 10,
+      "component_id": 8,
+      "attribute_name": "Частота",
+      "attribute_value": "144",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 11,
+      "component_id": 8,
+      "attribute_name": "Разрядность",
+      "attribute_value": "16",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 12,
+      "component_id": 8,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 13,
+      "component_id": 9,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 14,
+      "component_id": 10,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "23",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 15,
+      "component_id": 10,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 16,
+      "component_id": 11,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "33",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 17,
+      "component_id": 11,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 18,
+      "component_id": 12,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 19,
+      "component_id": 13,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "8",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 20,
+      "component_id": 13,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 21,
+      "component_id": 14,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 22,
+      "component_id": 15,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 23,
+      "component_id": 16,
+      "attribute_name": "Объём",
+      "attribute_value": "256",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 24,
+      "component_id": 16,
+      "attribute_name": "Тип",
+      "attribute_value": "FLASH",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 25,
+      "component_id": 16,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 26,
+      "component_id": 17,
+      "attribute_name": "Частота",
+      "attribute_value": "1129",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 27,
+      "component_id": 17,
+      "attribute_name": "Разрядность",
+      "attribute_value": "32",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 28,
+      "component_id": 17,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 29,
+      "component_id": 18,
+      "attribute_name": "Частота",
+      "attribute_value": "759",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 30,
+      "component_id": 18,
+      "attribute_name": "Разрядность",
+      "attribute_value": "16",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 31,
+      "component_id": 18,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 32,
+      "component_id": 19,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 33,
+      "component_id": 20,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "14",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 34,
+      "component_id": 20,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 35,
+      "component_id": 21,
+      "attribute_name": "Объём",
+      "attribute_value": "128",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 36,
+      "component_id": 21,
+      "attribute_name": "Тип",
+      "attribute_value": "DDR3",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 37,
+      "component_id": 21,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 38,
+      "component_id": 22,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 39,
+      "component_id": 23,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 40,
+      "component_id": 24,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "9",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 41,
+      "component_id": 24,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 42,
+      "component_id": 25,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 43,
+      "component_id": 26,
+      "attribute_name": "Частота",
+      "attribute_value": "1126",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 44,
+      "component_id": 26,
+      "attribute_name": "Разрядность",
+      "attribute_value": "32",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 45,
+      "component_id": 26,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 46,
+      "component_id": 27,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 47,
+      "component_id": 28,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "39",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 48,
+      "component_id": 28,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 49,
+      "component_id": 29,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 50,
+      "component_id": 30,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 51,
+      "component_id": 31,
+      "attribute_name": "Объём",
+      "attribute_value": "128",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 52,
+      "component_id": 31,
+      "attribute_name": "Тип",
+      "attribute_value": "FLASH",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 53,
+      "component_id": 31,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 54,
+      "component_id": 32,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 55,
+      "component_id": 33,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 56,
+      "component_id": 34,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 57,
+      "component_id": 35,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "46",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 58,
+      "component_id": 35,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 59,
+      "component_id": 36,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 60,
+      "component_id": 37,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 61,
+      "component_id": 38,
+      "attribute_name": "Частота",
+      "attribute_value": "1701",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 62,
+      "component_id": 38,
+      "attribute_name": "Разрядность",
+      "attribute_value": "8",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 63,
+      "component_id": 38,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 64,
+      "component_id": 39,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 65,
+      "component_id": 40,
+      "attribute_name": "Частота",
+      "attribute_value": "2443",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 66,
+      "component_id": 40,
+      "attribute_name": "Разрядность",
+      "attribute_value": "32",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 67,
+      "component_id": 40,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 68,
+      "component_id": 41,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 69,
+      "component_id": 42,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 70,
+      "component_id": 43,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 71,
+      "component_id": 44,
+      "attribute_name": "Частота",
+      "attribute_value": "2470",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 72,
+      "component_id": 44,
+      "attribute_name": "Разрядность",
+      "attribute_value": "8",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 73,
+      "component_id": 44,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 74,
+      "component_id": 45,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 75,
+      "component_id": 46,
+      "attribute_name": "Объём",
+      "attribute_value": "1024",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 76,
+      "component_id": 46,
+      "attribute_name": "Тип",
+      "attribute_value": "DDR3",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 77,
+      "component_id": 46,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 78,
+      "component_id": 47,
+      "attribute_name": "Частота",
+      "attribute_value": "2474",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 79,
+      "component_id": 47,
+      "attribute_name": "Разрядность",
+      "attribute_value": "32",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 80,
+      "component_id": 47,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 81,
+      "component_id": 48,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 82,
+      "component_id": 49,
+      "attribute_name": "Частота",
+      "attribute_value": "2480",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 83,
+      "component_id": 49,
+      "attribute_name": "Разрядность",
+      "attribute_value": "32",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 84,
+      "component_id": 49,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 85,
+      "component_id": 50,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "10",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 86,
+      "component_id": 50,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 87,
+      "component_id": 51,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 88,
+      "component_id": 52,
+      "attribute_name": "Объём",
+      "attribute_value": "256",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 89,
+      "component_id": 52,
+      "attribute_name": "Тип",
+      "attribute_value": "DDR3",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 90,
+      "component_id": 52,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 91,
+      "component_id": 53,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 92,
+      "component_id": 54,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 93,
+      "component_id": 55,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 94,
+      "component_id": 56,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 95,
+      "component_id": 57,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 96,
+      "component_id": 58,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 97,
+      "component_id": 59,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 98,
+      "component_id": 60,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 99,
+      "component_id": 61,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 100,
+      "component_id": 62,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 101,
+      "component_id": 63,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 102,
+      "component_id": 64,
+      "attribute_name": "Частота",
+      "attribute_value": "1471",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 103,
+      "component_id": 64,
+      "attribute_name": "Разрядность",
+      "attribute_value": "8",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 104,
+      "component_id": 64,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 105,
+      "component_id": 65,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 106,
+      "component_id": 66,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 107,
+      "component_id": 67,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 108,
+      "component_id": 68,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 109,
+      "component_id": 69,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "23",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 110,
+      "component_id": 69,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 111,
+      "component_id": 70,
+      "attribute_name": "Частота",
+      "attribute_value": "352",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 112,
+      "component_id": 70,
+      "attribute_name": "Разрядность",
+      "attribute_value": "64",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 113,
+      "component_id": 70,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 114,
+      "component_id": 71,
+      "attribute_name": "Частота",
+      "attribute_value": "174",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 115,
+      "component_id": 71,
+      "attribute_name": "Разрядность",
+      "attribute_value": "16",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 116,
+      "component_id": 71,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 117,
+      "component_id": 72,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 118,
+      "component_id": 73,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 119,
+      "component_id": 74,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 120,
+      "component_id": 75,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 121,
+      "component_id": 76,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 122,
+      "component_id": 77,
+      "attribute_name": "Объём",
+      "attribute_value": "128",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 123,
+      "component_id": 77,
+      "attribute_name": "Тип",
+      "attribute_value": "DDR4",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 124,
+      "component_id": 77,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 125,
+      "component_id": 78,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 126,
+      "component_id": 79,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 127,
+      "component_id": 80,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 128,
+      "component_id": 81,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 129,
+      "component_id": 82,
+      "attribute_name": "Объём",
+      "attribute_value": "512",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 130,
+      "component_id": 82,
+      "attribute_name": "Тип",
+      "attribute_value": "DDR3",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 131,
+      "component_id": 82,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 132,
+      "component_id": 83,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 133,
+      "component_id": 84,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 134,
+      "component_id": 85,
+      "attribute_name": "Объём",
+      "attribute_value": "2048",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 135,
+      "component_id": 85,
+      "attribute_name": "Тип",
+      "attribute_value": "DDR4",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 136,
+      "component_id": 85,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 137,
+      "component_id": 86,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 138,
+      "component_id": 87,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "34",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 139,
+      "component_id": 87,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 140,
+      "component_id": 88,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 141,
+      "component_id": 89,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 142,
+      "component_id": 90,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 143,
+      "component_id": 91,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 144,
+      "component_id": 92,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-40...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 145,
+      "component_id": 93,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 146,
+      "component_id": 94,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 147,
+      "component_id": 95,
+      "attribute_name": "Объём",
+      "attribute_value": "256",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 148,
+      "component_id": 95,
+      "attribute_name": "Тип",
+      "attribute_value": "DDR4",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 149,
+      "component_id": 95,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 150,
+      "component_id": 96,
+      "attribute_name": "Объём",
+      "attribute_value": "128",
+      "attribute_type": "numeric",
+      "unit": "МБ"
+    },
+    {
+      "attribute_id": 151,
+      "component_id": 96,
+      "attribute_name": "Тип",
+      "attribute_value": "FLASH",
+      "attribute_type": "categorical",
+      "unit": ""
+    },
+    {
+      "attribute_id": 152,
+      "component_id": 96,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 153,
+      "component_id": 97,
+      "attribute_name": "Частота",
+      "attribute_value": "1727",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 154,
+      "component_id": 97,
+      "attribute_name": "Разрядность",
+      "attribute_value": "32",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 155,
+      "component_id": 97,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "0...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 156,
+      "component_id": 98,
+      "attribute_name": "Частота",
+      "attribute_value": "2048",
+      "attribute_type": "numeric",
+      "unit": "МГц"
+    },
+    {
+      "attribute_id": 157,
+      "component_id": 98,
+      "attribute_name": "Разрядность",
+      "attribute_value": "64",
+      "attribute_type": "numeric",
+      "unit": "бит"
+    },
+    {
+      "attribute_id": 158,
+      "component_id": 98,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+100",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 159,
+      "component_id": 99,
+      "attribute_name": "Теплоотвод",
+      "attribute_value": "46",
+      "attribute_type": "numeric",
+      "unit": "Вт"
+    },
+    {
+      "attribute_id": 160,
+      "component_id": 99,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+70",
+      "attribute_type": "text",
+      "unit": "°C"
+    },
+    {
+      "attribute_id": 161,
+      "component_id": 100,
+      "attribute_name": "Температурный диапазон",
+      "attribute_value": "-20...+85",
+      "attribute_type": "text",
+      "unit": "°C"
+    }
+  ],
+  "requirements": [
+    {
+      "requirement_id": 1,
+      "code": "REQ-ФУН-01",
+      "category": "Функциональные",
+      "description": "Обработка сигналов управления",
+      "priority": "Средний"
+    },
+    {
+      "requirement_id": 2,
+      "code": "REQ-ФУН-02",
+      "category": "Функциональные",
+      "description": "Мониторинг параметров системы",
+      "priority": "Низкий"
+    },
+    {
+      "requirement_id": 3,
+      "code": "REQ-ФУН-03",
+      "category": "Функциональные",
+      "description": "Обеспечение связи с внешними устройствами",
+      "priority": "Средний"
+    },
+    {
+      "requirement_id": 4,
+      "code": "REQ-ФУН-04",
+      "category": "Функциональные",
+      "description": "Регулирование температурного режима",
+      "priority": "Низкий"
+    },
+    {
+      "requirement_id": 5,
+      "code": "REQ-ФУН-05",
+      "category": "Функциональные",
+      "description": "Защита от перегрузок",
+      "priority": "Низкий"
+    },
+    {
+      "requirement_id": 6,
+      "code": "REQ-НАД-01",
+      "category": "Надёжность",
+      "description": "Наработка на отказ не менее 50000 часов",
+      "priority": "Средний"
+    },
+    {
+      "requirement_id": 7,
+      "code": "REQ-НАД-02",
+      "category": "Надёжность",
+      "description": "Устойчивость к вибрациям",
+      "priority": "Высокий"
+    },
+    {
+      "requirement_id": 8,
+      "code": "REQ-НАД-03",
+      "category": "Надёжность",
+      "description": "Устойчивость к температурным колебаниям",
+      "priority": "Высокий"
+    },
+    {
+      "requirement_id": 9,
+      "code": "REQ-НАД-04",
+      "category": "Надёжность",
+      "description": "Защита от влаги и пыли",
+      "priority": "Средний"
+    },
+    {
+      "requirement_id": 10,
+      "code": "REQ-ПРО-01",
+      "category": "Производственные",
+      "description": "Использование стандартных компонентов",
+      "priority": "Низкий"
+    },
+    {
+      "requirement_id": 11,
+      "code": "REQ-ПРО-02",
+      "category": "Производственные",
+      "description": "Минимизация количества уникальных деталей",
+      "priority": "Низкий"
+    },
+    {
+      "requirement_id": 12,
+      "code": "REQ-ПРО-03",
+      "category": "Производственные",
+      "description": "Возможность автоматизированной сборки",
+      "priority": "Низкий"
+    },
+    {
+      "requirement_id": 13,
+      "code": "REQ-ПРО-04",
+      "category": "Производственные",
+      "description": "Простота тестирования",
+      "priority": "Низкий"
+    },
+    {
+      "requirement_id": 14,
+      "code": "REQ-ЭКС-01",
+      "category": "Эксплуатационные",
+      "description": "Удобство обслуживания",
+      "priority": "Высокий"
+    },
+    {
+      "requirement_id": 15,
+      "code": "REQ-ЭКС-02",
+      "category": "Эксплуатационные",
+      "description": "Возможность замены компонентов",
+      "priority": "Высокий"
+    },
+    {
+      "requirement_id": 16,
+      "code": "REQ-ЭКС-03",
+      "category": "Эксплуатационные",
+      "description": "Индикация состояния",
+      "priority": "Высокий"
+    },
+    {
+      "requirement_id": 17,
+      "code": "REQ-ЭКС-04",
+      "category": "Эксплуатационные",
+      "description": "Низкое энергопотребление",
+      "priority": "Высокий"
+    }
+  ],
+  "product_requirements": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "requirement_id": 1,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 2,
+      "product_id": 1,
+      "requirement_id": 15,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 3,
+      "product_id": 1,
+      "requirement_id": 7,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 4,
+      "product_id": 1,
+      "requirement_id": 4,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 5,
+      "product_id": 1,
+      "requirement_id": 8,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 6,
+      "product_id": 1,
+      "requirement_id": 5,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 7,
+      "product_id": 1,
+      "requirement_id": 14,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 8,
+      "product_id": 1,
+      "requirement_id": 10,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 9,
+      "product_id": 1,
+      "requirement_id": 9,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 10,
+      "product_id": 1,
+      "requirement_id": 17,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 11,
+      "product_id": 2,
+      "requirement_id": 3,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 12,
+      "product_id": 2,
+      "requirement_id": 5,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 13,
+      "product_id": 2,
+      "requirement_id": 9,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 14,
+      "product_id": 2,
+      "requirement_id": 8,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 15,
+      "product_id": 2,
+      "requirement_id": 14,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 16,
+      "product_id": 2,
+      "requirement_id": 17,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 17,
+      "product_id": 2,
+      "requirement_id": 1,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 18,
+      "product_id": 2,
+      "requirement_id": 13,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 19,
+      "product_id": 2,
+      "requirement_id": 7,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 20,
+      "product_id": 2,
+      "requirement_id": 16,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 21,
+      "product_id": 2,
+      "requirement_id": 15,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 22,
+      "product_id": 2,
+      "requirement_id": 6,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 23,
+      "product_id": 2,
+      "requirement_id": 11,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 24,
+      "product_id": 2,
+      "requirement_id": 4,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 25,
+      "product_id": 2,
+      "requirement_id": 12,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 26,
+      "product_id": 3,
+      "requirement_id": 11,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 27,
+      "product_id": 3,
+      "requirement_id": 2,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 28,
+      "product_id": 3,
+      "requirement_id": 3,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 29,
+      "product_id": 3,
+      "requirement_id": 1,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 30,
+      "product_id": 3,
+      "requirement_id": 9,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 31,
+      "product_id": 3,
+      "requirement_id": 6,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 32,
+      "product_id": 3,
+      "requirement_id": 8,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 33,
+      "product_id": 3,
+      "requirement_id": 17,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 34,
+      "product_id": 3,
+      "requirement_id": 13,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 35,
+      "product_id": 3,
+      "requirement_id": 14,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 36,
+      "product_id": 4,
+      "requirement_id": 10,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 37,
+      "product_id": 4,
+      "requirement_id": 3,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 38,
+      "product_id": 4,
+      "requirement_id": 6,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 39,
+      "product_id": 4,
+      "requirement_id": 15,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 40,
+      "product_id": 4,
+      "requirement_id": 14,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 41,
+      "product_id": 4,
+      "requirement_id": 9,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 42,
+      "product_id": 4,
+      "requirement_id": 2,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 43,
+      "product_id": 4,
+      "requirement_id": 4,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 44,
+      "product_id": 4,
+      "requirement_id": 1,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 45,
+      "product_id": 4,
+      "requirement_id": 7,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 46,
+      "product_id": 4,
+      "requirement_id": 16,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 47,
+      "product_id": 4,
+      "requirement_id": 17,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 48,
+      "product_id": 4,
+      "requirement_id": 11,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 49,
+      "product_id": 5,
+      "requirement_id": 10,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 50,
+      "product_id": 5,
+      "requirement_id": 5,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 51,
+      "product_id": 5,
+      "requirement_id": 12,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 52,
+      "product_id": 5,
+      "requirement_id": 16,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 53,
+      "product_id": 5,
+      "requirement_id": 11,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 54,
+      "product_id": 5,
+      "requirement_id": 4,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 55,
+      "product_id": 5,
+      "requirement_id": 8,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 56,
+      "product_id": 5,
+      "requirement_id": 2,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 57,
+      "product_id": 5,
+      "requirement_id": 1,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 58,
+      "product_id": 5,
+      "requirement_id": 7,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 59,
+      "product_id": 5,
+      "requirement_id": 14,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 60,
+      "product_id": 6,
+      "requirement_id": 3,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 61,
+      "product_id": 6,
+      "requirement_id": 8,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 62,
+      "product_id": 6,
+      "requirement_id": 16,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 63,
+      "product_id": 6,
+      "requirement_id": 2,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 64,
+      "product_id": 6,
+      "requirement_id": 4,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 65,
+      "product_id": 6,
+      "requirement_id": 12,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 66,
+      "product_id": 6,
+      "requirement_id": 13,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 67,
+      "product_id": 6,
+      "requirement_id": 5,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 68,
+      "product_id": 6,
+      "requirement_id": 6,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 69,
+      "product_id": 6,
+      "requirement_id": 7,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 70,
+      "product_id": 6,
+      "requirement_id": 14,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 71,
+      "product_id": 6,
+      "requirement_id": 11,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 72,
+      "product_id": 6,
+      "requirement_id": 17,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 73,
+      "product_id": 6,
+      "requirement_id": 10,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 74,
+      "product_id": 6,
+      "requirement_id": 15,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 75,
+      "product_id": 7,
+      "requirement_id": 1,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 76,
+      "product_id": 7,
+      "requirement_id": 3,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 77,
+      "product_id": 7,
+      "requirement_id": 16,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 78,
+      "product_id": 7,
+      "requirement_id": 6,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 79,
+      "product_id": 7,
+      "requirement_id": 8,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 80,
+      "product_id": 7,
+      "requirement_id": 5,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 81,
+      "product_id": 7,
+      "requirement_id": 14,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 82,
+      "product_id": 7,
+      "requirement_id": 4,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 83,
+      "product_id": 7,
+      "requirement_id": 13,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 84,
+      "product_id": 7,
+      "requirement_id": 7,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 85,
+      "product_id": 7,
+      "requirement_id": 2,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 86,
+      "product_id": 7,
+      "requirement_id": 10,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 87,
+      "product_id": 7,
+      "requirement_id": 11,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 88,
+      "product_id": 7,
+      "requirement_id": 9,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 89,
+      "product_id": 8,
+      "requirement_id": 1,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 90,
+      "product_id": 8,
+      "requirement_id": 16,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 91,
+      "product_id": 8,
+      "requirement_id": 11,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 92,
+      "product_id": 8,
+      "requirement_id": 12,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 93,
+      "product_id": 8,
+      "requirement_id": 8,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 94,
+      "product_id": 8,
+      "requirement_id": 4,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 95,
+      "product_id": 8,
+      "requirement_id": 7,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 96,
+      "product_id": 8,
+      "requirement_id": 14,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 97,
+      "product_id": 8,
+      "requirement_id": 3,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 98,
+      "product_id": 8,
+      "requirement_id": 9,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 99,
+      "product_id": 8,
+      "requirement_id": 6,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 100,
+      "product_id": 8,
+      "requirement_id": 5,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 101,
+      "product_id": 8,
+      "requirement_id": 13,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 102,
+      "product_id": 8,
+      "requirement_id": 2,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 103,
+      "product_id": 8,
+      "requirement_id": 10,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 104,
+      "product_id": 9,
+      "requirement_id": 2,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 105,
+      "product_id": 9,
+      "requirement_id": 5,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 106,
+      "product_id": 9,
+      "requirement_id": 13,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 107,
+      "product_id": 9,
+      "requirement_id": 14,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 108,
+      "product_id": 9,
+      "requirement_id": 3,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 109,
+      "product_id": 9,
+      "requirement_id": 1,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 110,
+      "product_id": 9,
+      "requirement_id": 6,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 111,
+      "product_id": 9,
+      "requirement_id": 12,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 112,
+      "product_id": 9,
+      "requirement_id": 7,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 113,
+      "product_id": 9,
+      "requirement_id": 10,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 114,
+      "product_id": 10,
+      "requirement_id": 5,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 115,
+      "product_id": 10,
+      "requirement_id": 16,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 116,
+      "product_id": 10,
+      "requirement_id": 12,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 117,
+      "product_id": 10,
+      "requirement_id": 9,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 118,
+      "product_id": 10,
+      "requirement_id": 4,
+      "compliance_level": "Планируется"
+    },
+    {
+      "id": 119,
+      "product_id": 10,
+      "requirement_id": 13,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 120,
+      "product_id": 10,
+      "requirement_id": 7,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 121,
+      "product_id": 10,
+      "requirement_id": 11,
+      "compliance_level": "Полное"
+    },
+    {
+      "id": 122,
+      "product_id": 10,
+      "requirement_id": 8,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 123,
+      "product_id": 10,
+      "requirement_id": 14,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 124,
+      "product_id": 10,
+      "requirement_id": 10,
+      "compliance_level": "Частичное"
+    },
+    {
+      "id": 125,
+      "product_id": 10,
+      "requirement_id": 15,
+      "compliance_level": "Полное"
+    }
+  ],
+  "component_relations": [
+    {
+      "relation_id": 1,
+      "product_id": 2,
+      "component_from": 21,
+      "component_to": 74,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 2,
+      "product_id": 2,
+      "component_from": 13,
+      "component_to": 21,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 3,
+      "product_id": 2,
+      "component_from": 22,
+      "component_to": 48,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 4,
+      "product_id": 3,
+      "component_from": 39,
+      "component_to": 80,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 5,
+      "product_id": 3,
+      "component_from": 4,
+      "component_to": 48,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 6,
+      "product_id": 3,
+      "component_from": 6,
+      "component_to": 68,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 7,
+      "product_id": 3,
+      "component_from": 8,
+      "component_to": 48,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 8,
+      "product_id": 3,
+      "component_from": 12,
+      "component_to": 39,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 9,
+      "product_id": 3,
+      "component_from": 94,
+      "component_to": 62,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 10,
+      "product_id": 3,
+      "component_from": 97,
+      "component_to": 36,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 11,
+      "product_id": 3,
+      "component_from": 57,
+      "component_to": 12,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 12,
+      "product_id": 3,
+      "component_from": 54,
+      "component_to": 4,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 13,
+      "product_id": 3,
+      "component_from": 38,
+      "component_to": 1,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 14,
+      "product_id": 3,
+      "component_from": 15,
+      "component_to": 76,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 15,
+      "product_id": 3,
+      "component_from": 87,
+      "component_to": 23,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 16,
+      "product_id": 4,
+      "component_from": 63,
+      "component_to": 96,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 17,
+      "product_id": 4,
+      "component_from": 55,
+      "component_to": 63,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 18,
+      "product_id": 4,
+      "component_from": 54,
+      "component_to": 57,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 19,
+      "product_id": 4,
+      "component_from": 95,
+      "component_to": 9,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 20,
+      "product_id": 4,
+      "component_from": 100,
+      "component_to": 9,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 21,
+      "product_id": 4,
+      "component_from": 75,
+      "component_to": 96,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 22,
+      "product_id": 4,
+      "component_from": 7,
+      "component_to": 51,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 23,
+      "product_id": 4,
+      "component_from": 88,
+      "component_to": 63,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 24,
+      "product_id": 4,
+      "component_from": 35,
+      "component_to": 78,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 25,
+      "product_id": 4,
+      "component_from": 69,
+      "component_to": 7,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 26,
+      "product_id": 4,
+      "component_from": 83,
+      "component_to": 37,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 27,
+      "product_id": 4,
+      "component_from": 27,
+      "component_to": 78,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 28,
+      "product_id": 4,
+      "component_from": 77,
+      "component_to": 78,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 29,
+      "product_id": 4,
+      "component_from": 16,
+      "component_to": 49,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 30,
+      "product_id": 4,
+      "component_from": 45,
+      "component_to": 2,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 31,
+      "product_id": 4,
+      "component_from": 82,
+      "component_to": 2,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 32,
+      "product_id": 4,
+      "component_from": 99,
+      "component_to": 10,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 33,
+      "product_id": 4,
+      "component_from": 44,
+      "component_to": 8,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 34,
+      "product_id": 4,
+      "component_from": 66,
+      "component_to": 77,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 35,
+      "product_id": 4,
+      "component_from": 39,
+      "component_to": 45,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 36,
+      "product_id": 4,
+      "component_from": 32,
+      "component_to": 39,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 37,
+      "product_id": 4,
+      "component_from": 12,
+      "component_to": 85,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 38,
+      "product_id": 4,
+      "component_from": 71,
+      "component_to": 41,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 39,
+      "product_id": 4,
+      "component_from": 19,
+      "component_to": 25,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 40,
+      "product_id": 4,
+      "component_from": 3,
+      "component_to": 96,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 41,
+      "product_id": 4,
+      "component_from": 92,
+      "component_to": 88,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 42,
+      "product_id": 4,
+      "component_from": 29,
+      "component_to": 16,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 43,
+      "product_id": 4,
+      "component_from": 50,
+      "component_to": 97,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 44,
+      "product_id": 4,
+      "component_from": 33,
+      "component_to": 58,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 45,
+      "product_id": 4,
+      "component_from": 89,
+      "component_to": 82,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 46,
+      "product_id": 4,
+      "component_from": 21,
+      "component_to": 58,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 47,
+      "product_id": 4,
+      "component_from": 15,
+      "component_to": 92,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 48,
+      "product_id": 4,
+      "component_from": 76,
+      "component_to": 71,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 49,
+      "product_id": 5,
+      "component_from": 27,
+      "component_to": 76,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 50,
+      "product_id": 6,
+      "component_from": 92,
+      "component_to": 86,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 51,
+      "product_id": 6,
+      "component_from": 72,
+      "component_to": 86,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 52,
+      "product_id": 6,
+      "component_from": 100,
+      "component_to": 70,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 53,
+      "product_id": 7,
+      "component_from": 92,
+      "component_to": 96,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 54,
+      "product_id": 7,
+      "component_from": 83,
+      "component_to": 92,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 55,
+      "product_id": 7,
+      "component_from": 39,
+      "component_to": 8,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 56,
+      "product_id": 7,
+      "component_from": 55,
+      "component_to": 92,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 57,
+      "product_id": 7,
+      "component_from": 9,
+      "component_to": 94,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 58,
+      "product_id": 7,
+      "component_from": 72,
+      "component_to": 55,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 59,
+      "product_id": 7,
+      "component_from": 69,
+      "component_to": 65,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 60,
+      "product_id": 7,
+      "component_from": 4,
+      "component_to": 39,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 61,
+      "product_id": 7,
+      "component_from": 84,
+      "component_to": 72,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 62,
+      "product_id": 7,
+      "component_from": 47,
+      "component_to": 37,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 63,
+      "product_id": 7,
+      "component_from": 100,
+      "component_to": 96,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 64,
+      "product_id": 7,
+      "component_from": 29,
+      "component_to": 30,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 65,
+      "product_id": 7,
+      "component_from": 32,
+      "component_to": 96,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 66,
+      "product_id": 7,
+      "component_from": 67,
+      "component_to": 94,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 67,
+      "product_id": 7,
+      "component_from": 19,
+      "component_to": 52,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 68,
+      "product_id": 7,
+      "component_from": 33,
+      "component_to": 92,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 69,
+      "product_id": 7,
+      "component_from": 63,
+      "component_to": 100,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 70,
+      "product_id": 7,
+      "component_from": 93,
+      "component_to": 92,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 71,
+      "product_id": 7,
+      "component_from": 97,
+      "component_to": 21,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 72,
+      "product_id": 7,
+      "component_from": 51,
+      "component_to": 16,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 73,
+      "product_id": 7,
+      "component_from": 95,
+      "component_to": 96,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 74,
+      "product_id": 7,
+      "component_from": 88,
+      "component_to": 93,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 75,
+      "product_id": 7,
+      "component_from": 26,
+      "component_to": 62,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 76,
+      "product_id": 7,
+      "component_from": 64,
+      "component_to": 72,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 77,
+      "product_id": 7,
+      "component_from": 78,
+      "component_to": 71,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 78,
+      "product_id": 7,
+      "component_from": 45,
+      "component_to": 95,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 79,
+      "product_id": 7,
+      "component_from": 61,
+      "component_to": 94,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 80,
+      "product_id": 7,
+      "component_from": 5,
+      "component_to": 3,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 81,
+      "product_id": 7,
+      "component_from": 42,
+      "component_to": 83,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 82,
+      "product_id": 7,
+      "component_from": 57,
+      "component_to": 20,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 83,
+      "product_id": 7,
+      "component_from": 66,
+      "component_to": 99,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 84,
+      "product_id": 8,
+      "component_from": 12,
+      "component_to": 29,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 85,
+      "product_id": 8,
+      "component_from": 91,
+      "component_to": 86,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 86,
+      "product_id": 8,
+      "component_from": 44,
+      "component_to": 28,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 87,
+      "product_id": 8,
+      "component_from": 34,
+      "component_to": 9,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 88,
+      "product_id": 8,
+      "component_from": 79,
+      "component_to": 46,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 89,
+      "product_id": 8,
+      "component_from": 95,
+      "component_to": 28,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 90,
+      "product_id": 8,
+      "component_from": 8,
+      "component_to": 76,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 91,
+      "product_id": 8,
+      "component_from": 32,
+      "component_to": 76,
+      "relation_type": "Охлаждение",
+      "description": null
+    },
+    {
+      "relation_id": 92,
+      "product_id": 8,
+      "component_from": 50,
+      "component_to": 87,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 93,
+      "product_id": 8,
+      "component_from": 35,
+      "component_to": 89,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 94,
+      "product_id": 8,
+      "component_from": 45,
+      "component_to": 58,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 95,
+      "product_id": 8,
+      "component_from": 4,
+      "component_to": 16,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 96,
+      "product_id": 8,
+      "component_from": 81,
+      "component_to": 71,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 97,
+      "product_id": 8,
+      "component_from": 18,
+      "component_to": 92,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 98,
+      "product_id": 8,
+      "component_from": 40,
+      "component_to": 59,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 99,
+      "product_id": 8,
+      "component_from": 20,
+      "component_to": 99,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 100,
+      "product_id": 8,
+      "component_from": 23,
+      "component_to": 69,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 101,
+      "product_id": 8,
+      "component_from": 39,
+      "component_to": 6,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 102,
+      "product_id": 8,
+      "component_from": 33,
+      "component_to": 34,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 103,
+      "product_id": 8,
+      "component_from": 36,
+      "component_to": 30,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 104,
+      "product_id": 8,
+      "component_from": 84,
+      "component_to": 88,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 105,
+      "product_id": 8,
+      "component_from": 22,
+      "component_to": 39,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 106,
+      "product_id": 8,
+      "component_from": 31,
+      "component_to": 22,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 107,
+      "product_id": 8,
+      "component_from": 100,
+      "component_to": 6,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 108,
+      "product_id": 8,
+      "component_from": 98,
+      "component_to": 64,
+      "relation_type": "Питание",
+      "description": null
+    },
+    {
+      "relation_id": 109,
+      "product_id": 8,
+      "component_from": 97,
+      "component_to": 37,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 110,
+      "product_id": 8,
+      "component_from": 78,
+      "component_to": 49,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 111,
+      "product_id": 10,
+      "component_from": 93,
+      "component_to": 64,
+      "relation_type": "Монтаж",
+      "description": null
+    },
+    {
+      "relation_id": 112,
+      "product_id": 10,
+      "component_from": 38,
+      "component_to": 39,
+      "relation_type": "Управление",
+      "description": null
+    },
+    {
+      "relation_id": 113,
+      "product_id": 10,
+      "component_from": 14,
+      "component_to": 53,
+      "relation_type": "Охлаждение",
+      "description": null
+    }
+  ]
+}
